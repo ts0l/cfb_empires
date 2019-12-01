@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  cfb_empires:
+    image: cfb_empires
+    build: .
+    ports:
+      - 3000:3000
