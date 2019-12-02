@@ -9,6 +9,7 @@ geolocator = Here('kO1cowFWMjjOgIKv6cFd', '_llArvZJD-XXKWs4q41hkQ')
 states = pd.read_csv('data/state_fips.csv',
                      dtype=object).set_index('State Code')['Name'].to_dict()
 counties = pd.read_csv('data/county_fips.csv', dtype=object)
+counties.loc[counties['State Code']=='72', 'Name'] = ''
 
 
 # %%
@@ -28,8 +29,6 @@ def lookup(county):
     finally:
         return lat, lon
 
-
-counties['Latitude'], counties['Longitude'] = counties.apply(lookup, axis=1)
-
-# %%
-counties
+#%%
+counties['Latitude'], counties['Longitude'] = zip(*counties.apply(lookup, axis=1))
+counties.to_csv('data/county_loc.csv', index=False)

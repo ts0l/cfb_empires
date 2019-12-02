@@ -6,4 +6,4 @@ EXPOSE 3000
 WORKDIR /app
 ADD . /app
 
-RUN conda install pylint geopy
+RUN conda install pylint geopy autopep8
