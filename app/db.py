@@ -40,14 +40,16 @@ def generate_counties_list(filename):
                  'Name'] = ''  # allows lookup of Puerto Rico
     return counties
 
+"""
+Deprecated from tests, will need to rewrite for production.
+"""
+# def write_counties(counties, destination):
+#     counties.to_csv(destination, index=False)
 
-def write_counties(counties, destination):
-    counties.to_csv(destination, index=False)
 
-
-def create_county_loc():
-    generate_states_dict(states_fips)
-    counties = generate_counties_df(county_fips)
-    counties['Latitude'], counties['Longitude'] = zip(
-        *counties.apply(lookup, axis=1))
-    write_counties(counties, county_locs)
+# def create_county_loc():
+#     generate_states_dict(states_fips)
+#     counties = generate_counties_df(county_fips)
+#     counties['Latitude'], counties['Longitude'] = zip(
+#         *counties.apply(lookup, axis=1))
+#     write_counties(counties, county_locs)

@@ -32,3 +32,50 @@ def lookup(county):
 #%%
 counties['Latitude'], counties['Longitude'] = zip(*counties.apply(lookup, axis=1))
 counties.to_csv('data/county_loc.csv', index=False)
+
+#%%
+import CFBScrapy as cfb
+
+teams = cfb.get_team_info()
+teams
+
+# %%
+venues = cfb.get_venue_info()
+venues
+
+# %%
+teams.to_csv('data/teams.csv')
+
+# %%
+import requests
+
+def get_team_info(year, conference=None):
+    '''
+        Returns a DataFrame containing color, logo, and mascot info
+        about each team in the queried params
+        conference (optional) = queries by conference
+    '''
+    base_url = 'https://api.collegefootballdata.com/teams/fbs'
+    payload = {}
+
+    if conference is not None:
+        payload['conference'] = conference
+    payload['year'] = year
+    
+    r = requests.get(base_url, params=payload)
+    if r.status_code == 200:
+        return pd.DataFrame(r.json())
+    else:
+        raise Exception('Request failed with status code: '+str(r.status_code))
+
+teams_2019 = get_team_info(year=2019)
+teams_2019
+
+# %%
+teams_2019.to_csv('data/teams_2019.csv')
+
+# %%
+venues = pd.read_csv('data/venues.csv')
+venues
+
+# %%

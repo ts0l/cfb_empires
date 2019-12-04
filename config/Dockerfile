@@ -7,3 +7,4 @@ WORKDIR /app
 ADD . /app
 
 RUN conda install pylint geopy autopep8 rope
+RUN pip install CFBScrapy

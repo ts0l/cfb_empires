@@ -1,0 +1,130 @@
+,capacity,city,country_code,dome,elevation,grass,id,location,name,state,year_constructed,zip,team_id
+2,30343,Las Cruces,US,False,1208.201294,False,3601,"{'x': 32.2796202, 'y': -106.7411148}",Aggie Memorial Stadium,NM,1978.0,88003,166
+5,65000,San Antonio,US,False,201.5526886,False,3604,"{'x': 29.4169834, 'y': -98.4788143}",Alamodome,TX,1993.0,78299,2636
+149,70500,Seattle,US,False,11.65622807,False,3765,"{'x': 47.6503235, 'y': -122.3015746}",Alaska Airlines Field at Husky Stadium,WA,1920.0,98195,264
+6,36387,Boise,US,False,823.2221069,False,3653,"{'x': 43.6028839, 'y': -116.1958882}",Albertsons Stadium,ID,1970.0,83725,68
+236,24300,Statesboro,US,False,61.25376892,False,3608,"{'x': 32.4122471, 'y': -81.7849296}",Allen E. Paulson Stadium,GA,1984.0,30460,290
+12,50000,Honolulu,US,False,10.26500511,False,3610,"{'x': 21.3728014, 'y': -157.9299645}",Aloha Stadium,HI,1975.0,96818,62
+15,44500,Chestnut Hill,US,False,39.82634354,False,3615,"{'x': 42.335104, 'y': -71.1664413}",Alumni Stadium,MA,1957.0,02467,103
+16,45000,Fort Worth,US,False,185.4387054,False,3616,"{'x': 32.7096604, 'y': -97.3680835}",Amon G. Carter Stadium,TX,1929.0,76129,2628
+19,30850,Denton,US,False,198.6871948,False,3825,"{'x': 33.203899, 'y': -97.159245}",Apogee Stadium,TX,2011.0,76210,249
+20,56029,Tucson,US,False,742.1530151,False,3619,"{'x': 32.2288054, 'y': -110.9488677}",Arizona Stadium,AZ,1928.0,85721,12
+325,19200,Lynchburg,US,False,272.9237061,,3992,"{'x': 37.3544305, 'y': -79.1750239}",Arthur L. Williams Stadium,VA,1989.0,,2335
+26,54000,Eugene,US,False,127.4198303,False,3626,"{'x': 44.0582712, 'y': -123.0684883}",Autzen Stadium,OR,1967.0,97401,2483
+91,50000,Greenville,US,False,19.0564537,False,3699,"{'x': 35.5968486, 'y': -77.364564}",Bagwell Field at Dowdy-Ficklen Stadium,NC,1963.0,27858,151
+31,31500,Winston-Salem,US,False,283.548584,False,3630,"{'x': 36.1305507, 'y': -80.2545851}",BB&T Field,NC,1968.0,27105,154
+33,106572,University Park,US,False,354.1551514,False,3632,"{'x': 40.8121958, 'y': -77.8561023}",Beaver Stadium,PA,1960.0,16802,213
+35,30000,New Orleans,US,False,0.0000000000000000000000000000000000000118,False,4729,"{'x': 29.944616, 'y': -90.116692}",Benson Field at Yulman Stadium,LA,2014.0,,2655
+36,50000,Manhattan,US,False,328.0574646,False,3636,"{'x': 39.2020096, 'y': -96.5938395}",Bill Snyder Family Football Stadium,KS,1968.0,66502,2306
+38,38000,West Point,US,False,99.21277618,False,3841,"{'x': 41.3874924, 'y': -73.9640891}",Blaik Field at Michie Stadium,NY,1924.0,10996,349
+39,79560,Tallahassee,US,False,19.55942535,False,3697,"{'x': 30.4381692, 'y': -84.3044032}",Bobby Bowden Field at Doak S. Campbell Stadium,FL,1950.0,32306,52
+40,55000,Atlanta,US,False,279.300415,False,721,"{'x': 33.7724449, 'y': -84.3928054}",Bobby Dodd Stadium at Historic Grant Field,GA,1913.0,30332,59
+43,60218,Stillwater,US,False,276.4808655,False,3646,"{'x': 36.125673, 'y': -97.066513}",Boone Pickens Stadium,OK,1919.0,74078,197
+49,23595,DeKalb,US,False,267.4530029,False,3764,"{'x': 41.9339586, 'y': -88.7778357}",Brigham Field at Huskie Stadium,IL,1965.0,60115,2459
+313,40000,Durham,US,False,103.0028152,False,3982,"{'x': 35.9953688, 'y': -78.9417564}",Brooks Field at Wallace Wade Stadium,NC,1929.0,27708,150
+52,9214,Conway,US,False,13.74894905,False,3654,"{'x': 33.7928506, 'y': -79.0166946}",Brooks Stadium,SC,2003.0,29528,324
+55,101821,Tuscaloosa,US,False,70.05136108,False,3657,"{'x': 33.2082752, 'y': -87.5503836}",Bryant-Denny Stadium,AL,1929.0,35487,333
+58,41031,Fresno,US,False,102.564064,False,3660,"{'x': 36.8143527, 'y': -119.7580092}",Bulldog Stadium at Jim Sweeney Field,CA,1980.0,93740,278
+60,36900,Lafayette,US,False,3.556508303,False,3666,"{'x': 30.2158434, 'y': -92.0417371}",Cajun Field,LA,1971.0,70506,309
+61,62717,Berkeley,US,False,125.3108063,False,3831,"{'x': 37.8710434, 'y': -122.2507729}",California Memorial Stadium,CA,1923.0,94720,25
+63,80321,Madison,US,False,263.604126,False,347,"{'x': 43.06994, 'y': -89.4126943}",Camp Randall Stadium,WI,1917.0,53711,275
+198,51802,College Park,US,False,32.68748093,False,3665,"{'x': 38.9903332, 'y': -76.9473792}",Capital One Field at Maryland Stadium,MD,1950.0,20742,120
+234,55000,Louisville,US,False,138.5615997,False,3873,"{'x': 38.2057621, 'y': -85.7588141}",Cardinal Stadium,KY,1998.0,40292,97
+267,61500,Charlottesville,US,False,170.4677429,False,3923,"{'x': 38.0311801, 'y': -78.5137897}","Carl Smith Center, Home of David A. Harrison III Field at Scott Stadium",VA,1931.0,22904,258
+213,36000,Hattiesburg,US,False,64.52726746,False,3815,"{'x': 31.3289321, 'y': -89.3318118}",Carlisle-Faulkner Field at M.M. Roberts Stadium,MS,1932.0,39402,2572
+66,49250,Syracuse,US,False,162.6989746,False,1964,"{'x': 43.0362269, 'y': -76.1363161}",Carrier Dome,NY,1980.0,13244,183
+274,30456,San Jose,US,False,28.30708694,False,3935,"{'x': 37.3196675, 'y': -121.8682962}",CEFCU Stadium,CA,1933.0,95112,23
+69,30964,Jonesboro,US,False,89.52690887,False,3625,"{'x': 35.8488977, 'y': -90.6677436}",Centennial Bank Stadium,AR,1974.0,72404,2032
+84,100119,Austin,US,False,160.3089447,False,3910,"{'x': 30.2836813, 'y': -97.7325345}",Darrell K Royal-Texas Memorial Stadium,TX,1924.0,78712,251
+206,50071,Lawrence,US,False,274.855957,False,3833,"{'x': 38.9629418, 'y': -95.2463686}",David Booth Kansas Memorial Stadium,KS,1921.0,66045,2305
+89,25000,Kent,US,False,321.3641663,False,3696,"{'x': 41.1390935, 'y': -81.31346}",Dix Stadium,OH,1969.0,44242,2309
+92,24000,Bowling Green,US,False,205.9057465,False,3700,"{'x': 41.3780114, 'y': -83.6225}",Doyt L. Perry Stadium,OH,1966.0,43403,189
+305,39224,Albuquerque,US,False,1554.471924,False,3971,"{'x': 35.0669479, 'y': -106.6283225}",Dreamstyle Stadium,NM,1960.0,87131,167
+102,46692,Colorado Springs,US,False,2024.875732,False,3713,"{'x': 38.9969701, 'y': -104.8436165}",Falcon Stadium,CO,1962.0,80840,2005
+105,30000,Boca Raton,US,False,3.613628864,False,3715,"{'x': 26.3763763, 'y': -80.1015759}",FAU Stadium,FL,2011.0,33499,2226
+104,71168,Columbia,US,False,212.6865692,False,3838,"{'x': 38.9358491, 'y': -92.3332009}",Faurot Field at Memorial Stadium,MO,1927.0,65211,142
+115,50183,Boulder,US,False,1634.041138,False,3726,"{'x': 40.0094746, 'y': -105.266905}",Folsom Field,CO,1924.0,80309,38
+204,81500,Clemson,US,False,205.6452179,False,3836,"{'x': 34.6787737, 'y': -82.8432428}",Frank Howard Field at Clemson Memorial Stadium,SC,1942.0,29634,228
+326,24286,Oxford,US,False,242.2643585,False,3996,"{'x': 39.5197009, 'y': -84.7330255}",Fred C. Yager Stadium,OH,1983.0,45056,193
+121,84389,Norman,US,False,355.0962524,False,3835,"{'x': 35.2058537, 'y': -97.4423145}",Gaylord Family - Oklahoma Memorial Stadium at Owen Field,OK,1925.0,73019,201
+123,24333,Atlanta,US,False,287,False,4246,,Georgia State Stadium,GA,2017.0,30315,2247
+124,32000,University Park,US,False,169.4058075,False,3735,"{'x': 32.8377223, 'y': -96.7827859}",Gerald J. Ford Stadium,TX,2000.0,75275,2567
+127,26248,Toledo,US,False,181.4839783,False,3739,"{'x': 41.6574777, 'y': -83.6135652}",Glass Bowl,OH,1937.0,43606,2649
+136,65326,Miami Gardens,US,False,2.624486446,True,3948,"{'x': 25.9579665, 'y': -80.2388604}",Hard Rock Stadium,FL,1987.0,33299,2390
+139,68400,Pittsburgh,US,False,220.5887146,False,3752,"{'x': 40.4467648, 'y': -80.0157603}",Heinz Field,PA,2001.0,15260,221
+146,22113,Bowling Green,US,False,154.4346619,False,3796,"{'x': 36.9847901, 'y': -86.4594041}",Houchens Industries-L. T. Smith Stadium at Jimmy Feix Field,KY,1968.0,42101,98
+285,30000,Akron,US,False,321.2875061,False,3768,"{'x': 41.0725534, 'y': -81.5083408}",InfoCision Stadium-Summa Field,OH,2009.0,44399,2006
+153,61500,Ames,US,False,274.9135437,False,3772,"{'x': 42.0139977, 'y': -93.6357716}",Jack Trice Stadium,IA,1975.0,50011,66
+157,30000,San Marcos,US,False,177.8676453,False,3644,"{'x': 29.8910008, 'y': -97.9255735}",Jim Wacker Field at Bobcat Stadium,TX,1981.0,78666,326
+158,38019,Huntington,US,False,163.7328186,False,3775,"{'x': 38.4247042, 'y': -82.4214412}",Joan C. Edwards Stadium,WV,1991.0,25755,276
+159,28019,Ruston,US,False,72.87982941,False,3776,"{'x': 32.5321487, 'y': -92.6560019}",Joe Aillet Stadium,LA,1968.0,71272,2348
+164,40000,Houston,US,False,9.57440567,False,4728,"{'x': 29.7219885, 'y': -95.3491623}",John O'Quinn Field at TDECU Stadium,TX,2014.0,248
+162,31000,Murfreesboro,US,False,191.7279816,False,3725,"{'x': 35.8511463, 'y': -86.3681649}","Johnny ""Red"" Floyd Stadium",TN,1933.0,37132,2393
+314,29181,Laramie,US,False,2200.153564,False,3984,"{'x': 41.31161, 'y': -105.5681384}",Jonah Field at War Memorial Stadium,WY,1950.0,82071,2751
+166,60862,Lubbock,US,False,980.7632446,False,3784,"{'x': 33.5910518, 'y': -101.8728824}",Jones AT&T Stadium,TX,1947.0,79409,2641
+194,30427,Monroe,US,False,22.998209,False,3817,"{'x': 32.5308089, 'y': -92.0660602}",JPS Field at Malone Stadium,LA,1978.0,71209,2433
+169,32885,Mount Pleasant,US,False,240.9007721,False,3786,"{'x': 43.5777313, 'y': -84.7709904}",Kelly/Shorts Stadium,MI,1972.0,48859,2117
+170,62980,Chapel Hill,US,False,127.7569809,False,3787,"{'x': 35.9069294, 'y': -79.0478889}",Kenan Memorial Stadium,NC,1927.0,27515,153
+176,24050,Boone,US,False,991.3414307,False,3792,"{'x': 36.2114267, 'y': -81.6854278}",Kidd Brewer Stadium,NC,1962.0,28608,2026
+177,70585,Iowa City,US,False,220.6357727,False,3793,"{'x': 41.6586045, 'y': -91.5510829}",Kinnick Stadium,IA,1929.0,52242,2294
+117,20118,Norfolk,US,False,3.147987843,False,3918,"{'x': 36.8889533, 'y': -76.3049175}",Kornblau Field at S.B. Ballard Stadium,VA,1936.0,23551,295
+75,61000,Lexington,US,False,307.4248962,False,3683,"{'x': 38.0220905, 'y': -84.5053408}",Kroger Field at C.M. Newton Grounds,KY,1973.0,40506,96
+178,102733,College Station,US,False,108.824585,False,3795,"{'x': 30.6098891, 'y': -96.3403828}",Kyle Field,TX,1927.0,77843,245
+179,33471,Mobile,US,False,9.828813553,False,3797,"{'x': 30.6730374, 'y': -88.0755704}",Ladd-Peebles Stadium,AL,1948.0,36695,6
+181,66233,Blacksburg,US,False,632.2631226,False,3799,"{'x': 37.2199873, 'y': -80.4180643}",Lane Stadium/Worsham Field,VA,1965.0,24061,259
+182,63725,Provo,US,False,1412.097046,False,3801,"{'x': 40.2575347, 'y': -111.6545247}",LaVell Edwards Stadium,UT,1964.0,84602,252
+184,71594,Birmingham,US,False,174.6382141,False,3803,"{'x': 33.511389, 'y': -86.842778}",Legion Field,AL,1927.0,35294,5
+187,62380,Memphis,US,False,90.62445831,False,3805,"{'x': 35.1209429, 'y': -89.977147}",Liberty Bowl Memorial Stadium,TN,1965.0,38152,235
+188,68532,Philadelphia,US,False,3.198706865,False,3806,"{'x': 39.9007995, 'y': -75.1675414}",Lincoln Financial Field,PA,2003.0,19122,218
+189,93607,Los Angeles,US,False,42.50374222,True,477,"{'x': 34.014167, 'y': -118.287778}",Los Angeles Memorial Coliseum,CA,1923.0,90089,30
+193,26000,Reno,US,False,1406.57605,False,3816,"{'x': 39.5469459, 'y': -119.8175435}",Mackay Stadium,NV,1966.0,89557,2440
+197,32248,Pullman,US,False,773.9526367,False,3820,"{'x': 46.731831, 'y': -117.1604991}",Martin Stadium,WA,1972.0,99164,265
+156,15314,Charlotte,US,False,190.365509,False,4418,"{'x': 35.3105033, 'y': -80.7401194}",McColl-Richardson Field at Jerry Richardson Stadium,NC,2013.0,2429
+199,45140,Waco,US,False,117.0538101,False,4727,"{'x': 31.5582015, 'y': -97.1156702}",McLane Stadium,TX,2014.0,,239
+207,60670,Champaign,US,False,223.2471619,False,3832,"{'x': 40.0993268, 'y': -88.2359569}",Memorial Stadium,IL,1923.0,61820,356
+205,52959,Bloomington,US,False,231.6500854,False,3830,"{'x': 39.1808959, 'y': -86.5256217}",Memorial Stadium,IN,1960.0,47408,84
+202,86047,Lincoln,US,False,354.9318848,False,3834,"{'x': 40.820682, 'y': -96.705594}","Memorial Stadium, Tom Osborne Field",NE,1923.0,68588,158
+254,25513,Logan,US,False,1427.914429,False,3905,"{'x': 41.7517394, 'y': -111.8116007}",Merlin Olsen Field at Maverik Stadium,UT,1968.0,84322,328
+211,107601,Ann Arbor,US,False,255.5500031,False,3558,"{'x': 42.2658365, 'y': -83.7486956}",Michigan Stadium,MI,1927.0,48109,130
+215,60000,Morgantown,US,False,327.409668,False,3842,"{'x': 39.6502744, 'y': -79.9551873}",Mountaineer Field at Milan Puskar Stadium,WV,1980.0,26507,277
+220,34000,Annapolis,US,False,10.74990082,True,3852,"{'x': 38.9846985, 'y': -76.5076335}",Navy-Marine Corps Memorial Stadium,MD,1959.0,21402,2426
+222,102455,Knoxville,US,False,271.9517212,False,3853,"{'x': 35.9550131, 'y': -83.9250128}",Neyland Stadium,TN,1921.0,37996,2633
+223,40000,Cincinnati,US,False,230.0660553,False,3854,"{'x': 39.1312495, 'y': -84.5161913}",Nippert Stadium,OH,1915.0,45221,2132
+225,80795,Notre Dame,US,False,222.645401,False,3855,"{'x': 41.698378, 'y': -86.2339425}",Notre Dame Stadium,IN,1930.0,46556,87
+229,104944,Columbus,US,False,216.6770325,False,3861,"{'x': 40.0016447, 'y': -83.0197266}",Ohio Stadium,OH,1922.0,43210,194
+167,87451,Auburn,US,False,201.1737976,False,3785,"{'x': 32.6025532, 'y': -85.4897479}",Pat Dye Field at Jordan-Hare Stadium,AL,1939.0,36849,2
+237,24000,Athens,US,False,194.230896,False,3876,"{'x': 39.3212794, 'y': -82.1034315}",Peden Stadium,OH,1929.0,45701,195
+245,40000,East Hartford,US,False,6.515614986,False,3892,"{'x': 41.7595675, 'y': -72.6187728}",Pratt & Whitney Stadium at Rentschler Field,CT,2003.0,6118,41
+243,65857,Tampa,US,False,11.07972908,False,3886,"{'x': 27.9758691, 'y': -82.5033344}",Raymond James Stadium,FL,1998.0,33620,58
+90,72000,Fayetteville,US,False,403.7972412,False,3887,"{'x': 36.0680662, 'y': -94.1789534}","Donald W. Reynolds Razorback Stadium, Frank Broyles Field",AR,1938.0,72702,8
+246,45674,Corvallis,US,False,66.90744781,False,3893,"{'x': 44.5594559, 'y': -123.2814341}",Reser Stadium,OR,1953.0,97331,204
+112,23500,Miami,US,False,1.718581796,False,218,"{'x': 25.7525014, 'y': -80.3778912}",Riccardo Silva Stadium,FL,1995.0,33199,2229
+250,47000,Houston,US,False,7.148301601,False,3895,"{'x': 29.7163297, 'y': -95.4093261}",Rice Stadium,TX,1950.0,77251,242
+249,45807,Salt Lake City,US,False,1411.543579,False,587,"{'x': 40.7599724, 'y': -111.8488255}",Rice-Eccles Stadium,UT,1998.0,84112,254\
+256,92542,Pasadena,US,False,245.1772461,False,1056,"{'x': 34.1613284, 'y': -118.1676462}",Rose Bowl Stadium,CA,1922.0,90095,26
+257,57236,West Lafayette,US,False,197.5337677,False,3907,"{'x': 40.4352253, 'y': -86.9186843}",Ross-Ade Stadium,IN,1924.0,47907,2509
+260,47130,Evanston,US,False,181.2376099,False,3911,"{'x': 42.0653994, 'y': -87.6924751}",Ryan Field,IL,1926.0,60208,77
+261,30200,Ypsilanti,US,False,241.248764,False,3912,"{'x': 42.256126, 'y': -83.647285}",Rynearson Stadium,MI,1969.0,48197,2199
+263,36800,Whitney,US,False,490.0622253,False,3914,"{'x': 36.085935, 'y': -115.01731}",Sam Boyd Stadium,NV,1971.0,89154,2439
+264,92746,Athens,US,False,186.1120758,False,3917,"{'x': 33.9498197, 'y': -83.3733813}",Sanford Stadium,GA,1929.0,30602,61
+265,22500,Muncie,US,False,285.481781,False,3919,"{'x': 40.2159422, 'y': -85.4161148}",Scheumann Stadium,IN,1967.0,47306,2050
+242,70561,San Diego,US,False,16.28476334,False,3932,"{'x': 32.7831122, 'y': -117.1195716}",SDCCU Stadium,CA,1967.0,92108,21
+140,52454,Piscataway,US,False,8.543146133,False,3754,"{'x': 40.5136754, 'y': -74.4655737}",SHI Stadium,NJ,1994.0,08854,164
+271,30000,Tulsa,US,False,235.5928345,False,3674,"{'x': 36.1489175, 'y': -95.9437853}",Skelly Field at H. A. Chapman Stadium,OK,1930.0,74194,202
+273,34400,Fort Collins,US,False,1574.920898,False,3761,"{'x': 40.5621183, 'y': -105.1416248}",Sonny Lubick Field at Canvas Stadium,CO,1968.0,80526,36
+275,75005,East Lansing,US,False,254.8794861,False,3936,"{'x': 42.7281474, 'y': -84.4848526}",Spartan Stadium,MI,1923.0,48824,127
+50,44206,Orlando,US,False,20.94113731,False,3652,"{'x': 28.6079765, 'y': -81.1927233}",Spectrum Stadium,FL,2007.0,32816,2116
+279,50424,Stanford,US,False,18.38425636,False,3940,"{'x': 37.4345556, 'y': -122.1611271}",Stanford Stadium,CA,2006.0,94305,24
+34,88548,Gainesville,US,False,44.97250748,False,3634,"{'x': 29.6499357, 'y': -82.3485788}",Steve Spurrier-Florida Field at Ben Hill Griffin Stadium,FL,1930.0,32653,57
+286,51500,El Paso,US,False,1183.697876,False,3946,"{'x': 31.7733353, 'y': -106.507957}",Sun Bowl Stadium,TX,1963.0,79968,2638
+287,56232,Tempe,US,False,360.1569519,False,3947,"{'x': 33.4264471, 'y': -111.9325005}","Sun Devil Stadium, Frank Kush Field",AZ,1958.0,85287,9
+290,50805,Minneapolis,US,False,254.3902283,False,3953,"{'x': 44.976525, 'y': -93.2245462}",TCF Bank Stadium,MN,2009.0,55488,135
+294,102321,Baton Rouge,US,False,7.640734673,True,3958,"{'x': 30.412035, 'y': -91.1838163}",Tiger Stadium,LA,1924.0,70803,99
+301,29013,Amherst,US,False,181.5759735,False,3965,"{'x': 42.9991334, 'y': -78.7775113}",UB Stadium,NY,1993.0,14260,2084
+306,40350,Nashville,US,False,159.9194641,False,3973,"{'x': 36.1440455, 'y': -86.8088942}",Vanderbilt Stadium,TN,1922.0,37212,238
+307,64038,Oxford,US,False,146.8517151,False,3974,"{'x': 34.3619837, 'y': -89.5342076}",Vaught-Hemingway Stadium at Hollingsworth Field,MS,1915.0,38677,145
+308,30000,Troy,US,False,154.7746277,False,3975,"{'x': 31.7995565, 'y': -85.9518328}",Veterans Memorial Stadium at Larry Blakeney Field,AL,1950.0,36082,2653
+311,30200,Kalamazoo,US,False,243.8211212,False,3980,"{'x': 42.2860064, 'y': -85.6007573}",Waldo Stadium,MI,1939.0,49008,2711
+316,17000,Hadley,US,False,46.58664703,False,3985,"{'x': 42.3773244, 'y': -72.5360595}",Warren McGuirk Alumni Stadium,MA,1965.0,,113
+67,57583,Raleigh,US,False,117.0089951,False,3670,"{'x': 35.8008001, 'y': -78.7195655}",Wayne Day Family Field at Carter-Finley Stadium,NC,1966.0,27695,152
+324,80250,Columbia,US,False,60.54548645,False,3994,"{'x': 33.9730239, 'y': -81.0191726}",Williams-Brice Stadium,SC,1934.0,29208,2579
