@@ -75,11 +75,25 @@ teams_2019
 teams_2019.to_csv('data/teams_2019.csv')
 
 # %%
+teams_2019 = get_team_info(year=2019)
 venues = pd.read_csv('data/venues.csv')
 venues = venues.rename(columns={'Unnamed: 0': 'unknown'})
 venues = venues.drop(columns=['unknown', 'capacity', 'city', 'country_code', 'dome', 'elevation', 'grass', 'id', 'name', 'state', 'year_constructed', 'zip'])
 venues = venues.rename(columns={'team_id': 'id'})
 venues['id'] = venues['id'].apply(int)
+teams_2019 = teams_2019.drop(columns=['abbreviation', 'alt_name1', 'alt_name2', 'alt_name3', 'conference', 'division', 'mascot'])
 teams_venues = pd.merge(teams_2019, venues, on='id', how='outer')
+teams_venues['location'] = teams_venues['location'].map(eval)
+teams_venues = pd.concat([teams_venues.drop(columns=['location']), teams_venues['location'].apply(pd.Series)], axis=1)
+teams_venues = teams_venues.rename(columns={'x': 'Latitude', 'y': 'Longitude'})
+teams_venues.to_csv('data/teams_venues.csv')
+
+# %%
+counties = pd.read_csv('data/county_loc.csv', dtype=object)
+
+# %%
+counties
+
+# %%
 
 # %%
