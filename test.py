@@ -76,6 +76,10 @@ teams_2019.to_csv('data/teams_2019.csv')
 
 # %%
 venues = pd.read_csv('data/venues.csv')
-venues
+venues = venues.rename(columns={'Unnamed: 0': 'unknown'})
+venues = venues.drop(columns=['unknown', 'capacity', 'city', 'country_code', 'dome', 'elevation', 'grass', 'id', 'name', 'state', 'year_constructed', 'zip'])
+venues = venues.rename(columns={'team_id': 'id'})
+venues['id'] = venues['id'].apply(int)
+teams_venues = pd.merge(teams_2019, venues, on='id', how='outer')
 
 # %%
