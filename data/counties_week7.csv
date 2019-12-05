@@ -1,0 +1,3144 @@
+Name,FIPS,Owner
+Autauga,1001,Alabama
+Baldwin,1003,Boise State
+Barbour,1005,Alabama
+Bibb,1007,Alabama
+Blount,1009,Western Kentucky
+Bullock,1011,Alabama
+Butler,1013,Alabama
+Calhoun,1015,Western Kentucky
+Chambers,1017,LSU
+Cherokee,1019,Clemson
+Chilton,1021,Western Kentucky
+Choctaw,1023,Baylor
+Clarke,1025,Boise State
+Clay,1027,LSU
+Cleburne,1029,Clemson
+Coffee,1031,Alabama
+Colbert,1033,Western Kentucky
+Conecuh,1035,Alabama
+Coosa,1037,LSU
+Covington,1039,Alabama
+Crenshaw,1041,Alabama
+Cullman,1043,Western Kentucky
+Dale,1045,Alabama
+Dallas,1047,Alabama
+DeKalb,1049,Clemson
+Elmore,1051,LSU
+Escambia,1053,Boise State
+Etowah,1055,Western Kentucky
+Fayette,1057,Alabama
+Franklin,1059,Western Kentucky
+Geneva,1061,Alabama
+Greene,1063,Alabama
+Hale,1065,Alabama
+Henry,1067,Alabama
+Houston,1069,Alabama
+Jackson,1071,Wisconsin
+Jefferson,1073,Western Kentucky
+Lamar,1075,Baylor
+Lauderdale,1077,Wisconsin
+Lawrence,1079,Western Kentucky
+Lee,1081,LSU
+Limestone,1083,Wisconsin
+Lowndes,1085,Alabama
+Macon,1087,LSU
+Madison,1089,Wisconsin
+Marengo,1091,Alabama
+Marion,1093,Alabama
+Marshall,1095,Western Kentucky
+Mobile,1097,Boise State
+Monroe,1099,Boise State
+Montgomery,1101,Alabama
+Morgan,1103,Western Kentucky
+Perry,1105,Alabama
+Pickens,1107,Alabama
+Pike,1109,Alabama
+Randolph,1111,LSU
+Russell,1113,LSU
+St. Clair,1115,Western Kentucky
+Shelby,1117,Western Kentucky
+Sumter,1119,Alabama
+Talladega,1121,Western Kentucky
+Tallapoosa,1123,LSU
+Tuscaloosa,1125,Alabama
+Walker,1127,Western Kentucky
+Washington,1129,Boise State
+Wilcox,1131,Alabama
+Winston,1133,Western Kentucky
+Aleutians East,2013,Arizona State
+Aleutians West,2016,Stanford
+Anchorage,2020,Arizona State
+Bethel,2050,Arizona State
+Bristol Bay,2060,Arizona State
+Denali,2068,Arizona State
+Dillingham,2070,Arizona State
+Fairbanks North Star,2090,Arizona State
+Haines,2100,Arizona State
+Hoonah-Angoon,2105,Arizona State
+Juneau,2110,Arizona State
+Kenai Peninsula,2122,Arizona State
+Ketchikan Gateway,2130,Arizona State
+Kodiak Island,2150,Arizona State
+Kusilvak,2158,Arizona State
+Lake and Peninsula,2164,Arizona State
+Matanuska-Susitna,2170,Arizona State
+Nome,2180,Arizona State
+North Slope,2185,Arizona State
+Northwest Arctic,2188,Arizona State
+Petersburg,2195,Arizona State
+Prince of Wales-Hyder,2198,Arizona State
+Sitka,2220,Arizona State
+Skagway,2230,Arizona State
+Southeast Fairbanks,2240,Arizona State
+Valdez-Cordova,2261,Arizona State
+Wrangell,2275,Arizona State
+Yakutat,2282,Arizona State
+Yukon-Koyukuk,2290,Arizona State
+Apache,4001,South Carolina
+Cochise,4003,Stanford
+Coconino,4005,Washington
+Gila,4007,Washington
+Graham,4009,Stanford
+Greenlee,4011,Stanford
+La Paz,4012,Washington
+Maricopa,4013,Washington
+Mohave,4015,South Carolina
+Navajo,4017,Washington
+Pima,4019,Stanford
+Pinal,4021,Washington
+Santa Cruz,4023,Stanford
+Yavapai,4025,Washington
+Yuma,4027,Washington
+Arkansas,5001,Temple
+Ashley,5003,Notre Dame
+Baxter,5005,SMU
+Benton,5007,Arizona State
+Boone,5009,Arizona State
+Bradley,5011,Notre Dame
+Calhoun,5013,LSU
+Carroll,5015,Arizona State
+Chicot,5017,Notre Dame
+Clark,5019,LSU
+Clay,5021,SMU
+Cleburne,5023,SMU
+Cleveland,5025,Notre Dame
+Columbia,5027,LSU
+Conway,5029,Arizona State
+Craighead,5031,SMU
+Crawford,5033,Arizona State
+Crittenden,5035,Temple
+Cross,5037,SMU
+Dallas,5039,LSU
+Desha,5041,Notre Dame
+Drew,5043,Notre Dame
+Faulkner,5045,SMU
+Franklin,5047,Arizona State
+Fulton,5049,SMU
+Garland,5051,Arizona State
+Grant,5053,LSU
+Greene,5055,SMU
+Hempstead,5057,LSU
+Hot Spring,5059,LSU
+Howard,5061,LSU
+Independence,5063,SMU
+Izard,5065,SMU
+Jackson,5067,SMU
+Jefferson,5069,Notre Dame
+Johnson,5071,Arizona State
+Lafayette,5073,LSU
+Lawrence,5075,SMU
+Lee,5077,Temple
+Lincoln,5079,Notre Dame
+Little River,5081,LSU
+Logan,5083,Arizona State
+Lonoke,5085,SMU
+Madison,5087,Arizona State
+Marion,5089,Arizona State
+Miller,5091,LSU
+Mississippi,5093,SMU
+Monroe,5095,Temple
+Montgomery,5097,Arizona State
+Nevada,5099,LSU
+Newton,5101,Arizona State
+Ouachita,5103,LSU
+Perry,5105,Arizona State
+Phillips,5107,Temple
+Pike,5109,LSU
+Poinsett,5111,SMU
+Polk,5113,Arizona State
+Pope,5115,Arizona State
+Prairie,5117,SMU
+Pulaski,5119,SMU
+Randolph,5121,SMU
+St. Francis,5123,Temple
+Saline,5125,Arizona State
+Scott,5127,Arizona State
+Searcy,5129,Arizona State
+Sebastian,5131,Arizona State
+Sevier,5133,LSU
+Sharp,5135,SMU
+Stone,5137,SMU
+Union,5139,LSU
+Van Buren,5141,Arizona State
+Washington,5143,Arizona State
+White,5145,SMU
+Woodruff,5147,SMU
+Yell,5149,Arizona State
+Alameda,6001,Stanford
+Alpine,6003,Oregon
+Amador,6005,Oregon
+Butte,6007,Oregon
+Calaveras,6009,Oklahoma
+Colusa,6011,Arizona State
+Contra Costa,6013,Arizona State
+Del Norte,6015,LSU
+El Dorado,6017,Oregon
+Fresno,6019,Stanford
+Glenn,6021,Arizona State
+Humboldt,6023,Arizona State
+Imperial,6025,LSU
+Inyo,6027,Stanford
+Kern,6029,Ohio State
+Kings,6031,Stanford
+Lake,6033,Arizona State
+Lassen,6035,Oregon
+Los Angeles,6037,Ohio State
+Madera,6039,Stanford
+Marin,6041,Arizona State
+Mariposa,6043,Stanford
+Mendocino,6045,Arizona State
+Merced,6047,Stanford
+Modoc,6049,Oregon
+Mono,6051,Stanford
+Monterey,6053,Oklahoma
+Napa,6055,Arizona State
+Nevada,6057,Oregon
+Orange,6059,Stanford
+Placer,6061,Oregon
+Plumas,6063,Oregon
+Riverside,6065,LSU
+Sacramento,6067,Arizona State
+San Benito,6069,Oklahoma
+San Bernardino,6071,South Carolina
+San Diego,6073,LSU
+San Francisco,6075,Arizona State
+San Joaquin,6077,Oklahoma
+San Luis Obispo,6079,Stanford
+San Mateo,6081,Stanford
+Santa Barbara,6083,Stanford
+Santa Clara,6085,Oklahoma
+Santa Cruz,6087,Oklahoma
+Shasta,6089,Oregon
+Sierra,6091,Oregon
+Siskiyou,6093,LSU
+Solano,6095,Arizona State
+Sonoma,6097,Arizona State
+Stanislaus,6099,Oklahoma
+Sutter,6101,Arizona State
+Tehama,6103,Oregon
+Trinity,6105,Oregon
+Tulare,6107,Stanford
+Tuolumne,6109,Stanford
+Ventura,6111,Stanford
+Yolo,6113,Arizona State
+Yuba,6115,Oregon
+Adams,8001,Boise State
+Alamosa,8003,Boise State
+Arapahoe,8005,Boise State
+Archuleta,8007,South Carolina
+Baca,8009,Boise State
+Bent,8011,Boise State
+Boulder,8013,Boise State
+Broomfield,8014,Boise State
+Chaffee,8015,Boise State
+Cheyenne,8017,Boise State
+Clear Creek,8019,Boise State
+Conejos,8021,Boise State
+Costilla,8023,Boise State
+Crowley,8025,Boise State
+Custer,8027,Boise State
+Delta,8029,Boise State
+Denver,8031,Boise State
+Dolores,8033,South Carolina
+Douglas,8035,Boise State
+Eagle,8037,Boise State
+Elbert,8039,Boise State
+El Paso,8041,Boise State
+Fremont,8043,Boise State
+Garfield,8045,Boise State
+Gilpin,8047,Boise State
+Grand,8049,Boise State
+Gunnison,8051,Boise State
+Hinsdale,8053,Boise State
+Huerfano,8055,Boise State
+Jackson,8057,SMU
+Jefferson,8059,Boise State
+Kiowa,8061,Boise State
+Kit Carson,8063,Boise State
+Lake,8065,Boise State
+La Plata,8067,South Carolina
+Larimer,8069,Boise State
+Las Animas,8071,Boise State
+Lincoln,8073,Boise State
+Logan,8075,Boise State
+Mesa,8077,Stanford
+Mineral,8079,Boise State
+Moffat,8081,SMU
+Montezuma,8083,South Carolina
+Montrose,8085,Boise State
+Morgan,8087,Boise State
+Otero,8089,Boise State
+Ouray,8091,Boise State
+Park,8093,Boise State
+Phillips,8095,Boise State
+Pitkin,8097,Boise State
+Prowers,8099,Boise State
+Pueblo,8101,Boise State
+Rio Blanco,8103,Boise State
+Rio Grande,8105,Boise State
+Routt,8107,SMU
+Saguache,8109,Boise State
+San Juan,8111,Boise State
+San Miguel,8113,Boise State
+Sedgwick,8115,Boise State
+Summit,8117,Boise State
+Teller,8119,Boise State
+Washington,8121,Boise State
+Weld,8123,Boise State
+Yuma,8125,Boise State
+Fairfield,9001,Wisconsin
+Hartford,9003,Central Michigan
+Litchfield,9005,Central Michigan
+Middlesex,9007,Central Michigan
+New Haven,9009,Central Michigan
+New London,9011,Central Michigan
+Tolland,9013,Central Michigan
+Windham,9015,Central Michigan
+Kent,10001,Temple
+New Castle,10003,Western Michigan
+Sussex,10005,Temple
+District of Columbia,11001,Western Michigan
+Alachua,12001,LSU
+Baker,12003,LSU
+Bay,12005,Boise State
+Bradford,12007,LSU
+Brevard,12009,Pittsburgh
+Broward,12011,LSU
+Calhoun,12013,Boise State
+Charlotte,12015,Wisconsin
+Citrus,12017,LSU
+Clay,12019,LSU
+Collier,12021,LSU
+Columbia,12023,LSU
+DeSoto,12027,Wisconsin
+Dixie,12029,LSU
+Duval,12031,LSU
+Escambia,12033,Boise State
+Flagler,12035,Pittsburgh
+Franklin,12037,Boise State
+Gadsden,12039,Boise State
+Gilchrist,12041,LSU
+Glades,12043,Ohio State
+Gulf,12045,Boise State
+Hamilton,12047,LSU
+Hardee,12049,Wisconsin
+Hendry,12051,Ohio State
+Hernando,12053,Wisconsin
+Highlands,12055,Wisconsin
+Hillsborough,12057,Wisconsin
+Holmes,12059,Alabama
+Indian River,12061,Pittsburgh
+Jackson,12063,Boise State
+Jefferson,12065,Boise State
+Lafayette,12067,LSU
+Lake,12069,Pittsburgh
+Lee,12071,Wisconsin
+Leon,12073,Boise State
+Levy,12075,LSU
+Liberty,12077,Boise State
+Madison,12079,Boise State
+Manatee,12081,Wisconsin
+Marion,12083,LSU
+Martin,12085,Ohio State
+Miami-Dade,12086,LSU
+Monroe,12087,LSU
+Nassau,12089,LSU
+Okaloosa,12091,Alabama
+Okeechobee,12093,Ohio State
+Orange,12095,Pittsburgh
+Osceola,12097,Pittsburgh
+Palm Beach,12099,Ohio State
+Pasco,12101,Wisconsin
+Pinellas,12103,Wisconsin
+Polk,12105,Wisconsin
+Putnam,12107,LSU
+St. Johns,12109,LSU
+St. Lucie,12111,Ohio State
+Santa Rosa,12113,Boise State
+Sarasota,12115,Wisconsin
+Seminole,12117,Pittsburgh
+Sumter,12119,Wisconsin
+Suwannee,12121,LSU
+Taylor,12123,Boise State
+Union,12125,LSU
+Volusia,12127,Pittsburgh
+Wakulla,12129,Boise State
+Walton,12131,Alabama
+Washington,12133,Boise State
+Appling,13001,LSU
+Atkinson,13003,LSU
+Bacon,13005,LSU
+Baker,13007,Boise State
+Baldwin,13009,South Carolina
+Banks,13011,South Carolina
+Barrow,13013,South Carolina
+Bartow,13015,Clemson
+Ben Hill,13017,LSU
+Berrien,13019,Boise State
+Bibb,13021,NC State
+Bleckley,13023,LSU
+Brantley,13025,LSU
+Brooks,13027,Boise State
+Bryan,13029,LSU
+Bulloch,13031,LSU
+Burke,13033,LSU
+Butts,13035,NC State
+Calhoun,13037,Boise State
+Camden,13039,LSU
+Candler,13043,LSU
+Carroll,13045,NC State
+Catoosa,13047,Clemson
+Charlton,13049,LSU
+Chatham,13051,LSU
+Chattahoochee,13053,LSU
+Chattooga,13055,Clemson
+Cherokee,13057,Clemson
+Clarke,13059,South Carolina
+Clay,13061,Alabama
+Clayton,13063,NC State
+Clinch,13065,LSU
+Cobb,13067,Clemson
+Coffee,13069,LSU
+Colquitt,13071,Boise State
+Columbia,13073,South Carolina
+Cook,13075,Boise State
+Coweta,13077,NC State
+Crawford,13079,NC State
+Crisp,13081,Boise State
+Dade,13083,Wisconsin
+Dawson,13085,Clemson
+Decatur,13087,Boise State
+DeKalb,13089,Clemson
+Dodge,13091,LSU
+Dooly,13093,LSU
+Dougherty,13095,Boise State
+Douglas,13097,NC State
+Early,13099,Boise State
+Echols,13101,LSU
+Effingham,13103,LSU
+Elbert,13105,South Carolina
+Emanuel,13107,LSU
+Evans,13109,LSU
+Fannin,13111,Clemson
+Fayette,13113,NC State
+Floyd,13115,Clemson
+Forsyth,13117,Clemson
+Franklin,13119,South Carolina
+Fulton,13121,Clemson
+Gilmer,13123,Clemson
+Glascock,13125,South Carolina
+Glynn,13127,LSU
+Gordon,13129,Clemson
+Grady,13131,Boise State
+Greene,13133,South Carolina
+Gwinnett,13135,Clemson
+Habersham,13137,Clemson
+Hall,13139,South Carolina
+Hancock,13141,South Carolina
+Haralson,13143,Clemson
+Harris,13145,LSU
+Hart,13147,Clemson
+Heard,13149,LSU
+Henry,13151,NC State
+Houston,13153,NC State
+Irwin,13155,Boise State
+Jackson,13157,South Carolina
+Jasper,13159,South Carolina
+Jeff Davis,13161,LSU
+Jefferson,13163,LSU
+Jenkins,13165,LSU
+Johnson,13167,LSU
+Jones,13169,South Carolina
+Lamar,13171,NC State
+Lanier,13173,Boise State
+Laurens,13175,LSU
+Lee,13177,Boise State
+Liberty,13179,LSU
+Lincoln,13181,South Carolina
+Long,13183,LSU
+Lowndes,13185,Boise State
+Lumpkin,13187,South Carolina
+McDuffie,13189,South Carolina
+McIntosh,13191,LSU
+Macon,13193,LSU
+Madison,13195,South Carolina
+Marion,13197,LSU
+Meriwether,13199,NC State
+Miller,13201,Boise State
+Mitchell,13205,Boise State
+Monroe,13207,NC State
+Montgomery,13209,LSU
+Morgan,13211,South Carolina
+Murray,13213,Clemson
+Muscogee,13215,LSU
+Newton,13217,NC State
+Oconee,13219,South Carolina
+Oglethorpe,13221,South Carolina
+Paulding,13223,Clemson
+Peach,13225,NC State
+Pickens,13227,Clemson
+Pierce,13229,LSU
+Pike,13231,NC State
+Polk,13233,Clemson
+Pulaski,13235,LSU
+Putnam,13237,South Carolina
+Quitman,13239,Alabama
+Rabun,13241,Clemson
+Randolph,13243,Alabama
+Richmond,13245,LSU
+Rockdale,13247,NC State
+Schley,13249,LSU
+Screven,13251,LSU
+Seminole,13253,Boise State
+Spalding,13255,NC State
+Stephens,13257,Clemson
+Stewart,13259,LSU
+Sumter,13261,LSU
+Talbot,13263,LSU
+Taliaferro,13265,South Carolina
+Tattnall,13267,LSU
+Taylor,13269,LSU
+Telfair,13271,LSU
+Terrell,13273,LSU
+Thomas,13275,Boise State
+Tift,13277,Boise State
+Toombs,13279,LSU
+Towns,13281,Clemson
+Treutlen,13283,LSU
+Troup,13285,LSU
+Turner,13287,Boise State
+Twiggs,13289,South Carolina
+Union,13291,Clemson
+Upson,13293,NC State
+Walker,13295,Clemson
+Walton,13297,South Carolina
+Ware,13299,LSU
+Warren,13301,South Carolina
+Washington,13303,LSU
+Wayne,13305,LSU
+Webster,13307,LSU
+Wheeler,13309,LSU
+White,13311,Clemson
+Whitfield,13313,Clemson
+Wilcox,13315,LSU
+Wilkes,13317,South Carolina
+Wilkinson,13319,South Carolina
+Worth,13321,Boise State
+Hawaii,15001,Stanford
+Honolulu,15003,Stanford
+Kalawao,15005,Stanford
+Kauai,15007,Stanford
+Maui,15009,Stanford
+Ada,16001,Boise State
+Adams,16003,Boise State
+Bannock,16005,Louisville
+Bear Lake,16007,Louisville
+Benewah,16009,Washington
+Bingham,16011,Louisville
+Blaine,16013,Boise State
+Boise,16015,Boise State
+Bonner,16017,Washington
+Bonneville,16019,Louisville
+Boundary,16021,Washington
+Butte,16023,Louisville
+Camas,16025,Boise State
+Canyon,16027,Boise State
+Caribou,16029,Louisville
+Cassia,16031,Louisville
+Clark,16033,Louisville
+Clearwater,16035,Washington
+Custer,16037,Boise State
+Elmore,16039,Boise State
+Franklin,16041,Louisville
+Fremont,16043,Louisville
+Gem,16045,Boise State
+Gooding,16047,Boise State
+Idaho,16049,Washington
+Jefferson,16051,Louisville
+Jerome,16053,Boise State
+Kootenai,16055,Washington
+Latah,16057,Washington
+Lemhi,16059,Boise State
+Lewis,16061,Washington
+Lincoln,16063,Boise State
+Madison,16065,Louisville
+Minidoka,16067,Louisville
+Nez Perce,16069,Washington
+Oneida,16071,Louisville
+Owyhee,16073,Boise State
+Payette,16075,Boise State
+Power,16077,Louisville
+Shoshone,16079,Washington
+Teton,16081,Louisville
+Twin Falls,16083,Boise State
+Valley,16085,Boise State
+Washington,16087,Boise State
+Adams,17001,SMU
+Alexander,17003,SMU
+Bond,17005,Central Michigan
+Boone,17007,Stanford
+Brown,17009,SMU
+Bureau,17011,Stanford
+Calhoun,17013,SMU
+Carroll,17015,Stanford
+Cass,17017,Central Michigan
+Champaign,17019,Central Michigan
+Christian,17021,Central Michigan
+Clark,17023,Central Michigan
+Clay,17025,Central Michigan
+Clinton,17027,Central Michigan
+Coles,17029,Central Michigan
+Cook,17031,Stanford
+Crawford,17033,Ohio State
+Cumberland,17035,Central Michigan
+DeKalb,17037,Stanford
+De Witt,17039,Central Michigan
+Douglas,17041,Central Michigan
+DuPage,17043,Stanford
+Edgar,17045,Central Michigan
+Edwards,17047,Ohio State
+Effingham,17049,Central Michigan
+Fayette,17051,Central Michigan
+Ford,17053,Central Michigan
+Franklin,17055,Central Michigan
+Fulton,17057,Central Michigan
+Gallatin,17059,Clemson
+Greene,17061,SMU
+Grundy,17063,Stanford
+Hamilton,17065,Ohio State
+Hancock,17067,Michigan
+Hardin,17069,Clemson
+Henderson,17071,Michigan
+Henry,17073,Michigan
+Iroquois,17075,Central Michigan
+Jackson,17077,SMU
+Jasper,17079,Central Michigan
+Jefferson,17081,Central Michigan
+Jersey,17083,SMU
+Jo Daviess,17085,Wisconsin
+Johnson,17087,Clemson
+Kane,17089,Stanford
+Kankakee,17091,Stanford
+Kendall,17093,Stanford
+Knox,17095,Michigan
+Lake,17097,Stanford
+LaSalle,17099,Stanford
+Lawrence,17101,Ohio State
+Lee,17103,Stanford
+Livingston,17105,Central Michigan
+Logan,17107,Central Michigan
+McDonough,17109,Michigan
+McHenry,17111,Stanford
+McLean,17113,Central Michigan
+Macon,17115,Central Michigan
+Macoupin,17117,Central Michigan
+Madison,17119,Central Michigan
+Marion,17121,Central Michigan
+Marshall,17123,Stanford
+Mason,17125,Central Michigan
+Massac,17127,Clemson
+Menard,17129,Central Michigan
+Mercer,17131,Michigan
+Monroe,17133,SMU
+Montgomery,17135,Central Michigan
+Morgan,17137,Central Michigan
+Moultrie,17139,Central Michigan
+Ogle,17141,Stanford
+Peoria,17143,Central Michigan
+Perry,17145,Central Michigan
+Piatt,17147,Central Michigan
+Pike,17149,SMU
+Pope,17151,Clemson
+Pulaski,17153,SMU
+Putnam,17155,Stanford
+Randolph,17157,SMU
+Richland,17159,Ohio State
+Rock Island,17161,Michigan
+St. Clair,17163,SMU
+Saline,17165,Clemson
+Sangamon,17167,Central Michigan
+Schuyler,17169,Michigan
+Scott,17171,SMU
+Shelby,17173,Central Michigan
+Stark,17175,Stanford
+Stephenson,17177,Wisconsin
+Tazewell,17179,Central Michigan
+Union,17181,SMU
+Vermilion,17183,Central Michigan
+Wabash,17185,Ohio State
+Warren,17187,Michigan
+Washington,17189,Central Michigan
+Wayne,17191,Ohio State
+White,17193,Ohio State
+Whiteside,17195,Stanford
+Will,17197,Stanford
+Williamson,17199,Clemson
+Winnebago,17201,Stanford
+Woodford,17203,Central Michigan
+Adams,18001,Ohio State
+Allen,18003,Ohio State
+Bartholomew,18005,Ohio State
+Benton,18007,Oregon
+Blackford,18009,Ohio State
+Boone,18011,Oregon
+Brown,18013,Ohio State
+Carroll,18015,Oregon
+Cass,18017,Oregon
+Clark,18019,South Carolina
+Clay,18021,Ohio State
+Clinton,18023,Oregon
+Crawford,18025,South Carolina
+Daviess,18027,Ohio State
+Dearborn,18029,Ohio State
+Decatur,18031,Michigan
+De Kalb,18033,South Carolina
+Delaware,18035,Ohio State
+Dubois,18037,Ohio State
+Elkhart,18039,South Carolina
+Fayette,18041,Michigan
+Floyd,18043,South Carolina
+Fountain,18045,Oregon
+Franklin,18047,Michigan
+Fulton,18049,South Carolina
+Gibson,18051,Ohio State
+Grant,18053,Ohio State
+Greene,18055,Ohio State
+Hamilton,18057,Ohio State
+Hancock,18059,Ohio State
+Harrison,18061,South Carolina
+Hendricks,18063,Ohio State
+Henry,18065,Ohio State
+Howard,18067,Ohio State
+Huntington,18069,Ohio State
+Jackson,18071,Ohio State
+Jasper,18073,Oregon
+Jay,18075,Ohio State
+Jefferson,18077,South Carolina
+Jennings,18079,Ohio State
+Johnson,18081,Ohio State
+Knox,18083,Ohio State
+Kosciusko,18085,South Carolina
+LaGrange,18087,South Carolina
+Lake,18089,Stanford
+LaPorte,18091,South Carolina
+Lawrence,18093,Ohio State
+Madison,18095,Ohio State
+Marion,18097,Ohio State
+Marshall,18099,South Carolina
+Martin,18101,Ohio State
+Miami,18103,Oregon
+Monroe,18105,Ohio State
+Montgomery,18107,Oregon
+Morgan,18109,Ohio State
+Newton,18111,Oregon
+Noble,18113,South Carolina
+Ohio,18115,Ohio State
+Orange,18117,Ohio State
+Owen,18119,Ohio State
+Parke,18121,Oregon
+Perry,18123,South Carolina
+Pike,18125,Ohio State
+Porter,18127,South Carolina
+Posey,18129,Clemson
+Pulaski,18131,Oregon
+Putnam,18133,Ohio State
+Randolph,18135,Ohio State
+Ripley,18137,Michigan
+Rush,18139,Michigan
+St. Joseph,18141,South Carolina
+Scott,18143,South Carolina
+Shelby,18145,Ohio State
+Spencer,18147,South Carolina
+Starke,18149,South Carolina
+Steuben,18151,Washington
+Sullivan,18153,Ohio State
+Switzerland,18155,Ohio State
+Tippecanoe,18157,Oregon
+Tipton,18159,Ohio State
+Union,18161,Michigan
+Vanderburgh,18163,Clemson
+Vermillion,18165,Central Michigan
+Vigo,18167,Ohio State
+Wabash,18169,Ohio State
+Warren,18171,Oregon
+Warrick,18173,South Carolina
+Washington,18175,South Carolina
+Wayne,18177,Michigan
+Wells,18179,Ohio State
+White,18181,Oregon
+Whitley,18183,South Carolina
+Adair,19001,Michigan
+Adams,19003,Michigan
+Allamakee,19005,Wisconsin
+Appanoose,19007,Michigan
+Audubon,19009,Michigan
+Benton,19011,Michigan
+Black Hawk,19013,Michigan
+Boone,19015,Michigan
+Bremer,19017,Michigan
+Buchanan,19019,Michigan
+Buena Vista,19021,Michigan
+Butler,19023,Michigan
+Calhoun,19025,Michigan
+Carroll,19027,Michigan
+Cass,19029,Michigan
+Cedar,19031,Michigan
+Cerro Gordo,19033,Michigan
+Cherokee,19035,Michigan
+Chickasaw,19037,Michigan
+Clarke,19039,Michigan
+Clay,19041,Michigan
+Clayton,19043,Michigan
+Clinton,19045,Michigan
+Crawford,19047,Michigan
+Dallas,19049,Michigan
+Davis,19051,Michigan
+Decatur,19053,Michigan
+Delaware,19055,Michigan
+Des Moines,19057,Michigan
+Dickinson,19059,Michigan
+Dubuque,19061,Michigan
+Emmet,19063,Michigan
+Fayette,19065,Michigan
+Floyd,19067,Michigan
+Franklin,19069,Michigan
+Fremont,19071,Boise State
+Greene,19073,Michigan
+Grundy,19075,Michigan
+Guthrie,19077,Michigan
+Hamilton,19079,Michigan
+Hancock,19081,Michigan
+Hardin,19083,Michigan
+Harrison,19085,Boise State
+Henry,19087,Michigan
+Howard,19089,Michigan
+Humboldt,19091,Michigan
+Ida,19093,Michigan
+Iowa,19095,Michigan
+Jackson,19097,Michigan
+Jasper,19099,Michigan
+Jefferson,19101,Michigan
+Johnson,19103,Michigan
+Jones,19105,Michigan
+Keokuk,19107,Michigan
+Kossuth,19109,Michigan
+Lee,19111,Michigan
+Linn,19113,Michigan
+Louisa,19115,Michigan
+Lucas,19117,Michigan
+Lyon,19119,Michigan
+Madison,19121,Michigan
+Mahaska,19123,Michigan
+Marion,19125,Michigan
+Marshall,19127,Michigan
+Mills,19129,Boise State
+Mitchell,19131,Michigan
+Monona,19133,Boise State
+Monroe,19135,Michigan
+Montgomery,19137,Boise State
+Muscatine,19139,Michigan
+O'Brien,19141,Michigan
+Osceola,19143,Michigan
+Page,19145,Boise State
+Palo Alto,19147,Michigan
+Plymouth,19149,Boise State
+Pocahontas,19151,Michigan
+Polk,19153,Michigan
+Pottawattamie,19155,Boise State
+Poweshiek,19157,Michigan
+Ringgold,19159,Michigan
+Sac,19161,Michigan
+Scott,19163,Michigan
+Shelby,19165,Michigan
+Sioux,19167,Michigan
+Story,19169,Michigan
+Tama,19171,Michigan
+Taylor,19173,Michigan
+Union,19175,Michigan
+Van Buren,19177,Michigan
+Wapello,19179,Michigan
+Warren,19181,Michigan
+Washington,19183,Michigan
+Wayne,19185,Michigan
+Webster,19187,Michigan
+Winnebago,19189,Michigan
+Winneshiek,19191,Michigan
+Woodbury,19193,Boise State
+Worth,19195,Michigan
+Wright,19197,Michigan
+Allen,20001,Appalachian State
+Anderson,20003,Appalachian State
+Atchison,20005,Appalachian State
+Barber,20007,Oklahoma
+Barton,20009,Baylor
+Bourbon,20011,Appalachian State
+Brown,20013,Appalachian State
+Butler,20015,Baylor
+Chase,20017,Baylor
+Chautauqua,20019,Washington
+Cherokee,20021,Arizona State
+Cheyenne,20023,Boise State
+Clark,20025,Oklahoma
+Clay,20027,Baylor
+Cloud,20029,Baylor
+Coffey,20031,Appalachian State
+Comanche,20033,Oklahoma
+Cowley,20035,Oklahoma
+Crawford,20037,Appalachian State
+Decatur,20039,Baylor
+Dickinson,20041,Baylor
+Doniphan,20043,Appalachian State
+Douglas,20045,Appalachian State
+Edwards,20047,Baylor
+Elk,20049,Washington
+Ellis,20051,Baylor
+Ellsworth,20053,Baylor
+Finney,20055,Boise State
+Ford,20057,Oklahoma
+Franklin,20059,Appalachian State
+Geary,20061,Baylor
+Gove,20063,Baylor
+Graham,20065,Baylor
+Grant,20067,Boise State
+Gray,20069,Oklahoma
+Greeley,20071,Boise State
+Greenwood,20073,Appalachian State
+Hamilton,20075,Boise State
+Harper,20077,Oklahoma
+Harvey,20079,Baylor
+Haskell,20081,Oklahoma
+Hodgeman,20083,Baylor
+Jackson,20085,Appalachian State
+Jefferson,20087,Appalachian State
+Jewell,20089,Baylor
+Johnson,20091,Appalachian State
+Kearny,20093,Boise State
+Kingman,20095,Oklahoma
+Kiowa,20097,Oklahoma
+Labette,20099,Washington
+Lane,20101,Baylor
+Leavenworth,20103,Appalachian State
+Lincoln,20105,Baylor
+Linn,20107,Appalachian State
+Logan,20109,Boise State
+Lyon,20111,Baylor
+McPherson,20113,Baylor
+Marion,20115,Baylor
+Marshall,20117,Baylor
+Meade,20119,Oklahoma
+Miami,20121,Appalachian State
+Mitchell,20123,Baylor
+Montgomery,20125,Washington
+Morris,20127,Baylor
+Morton,20129,Boise State
+Nemaha,20131,Baylor
+Neosho,20133,Appalachian State
+Ness,20135,Baylor
+Norton,20137,Baylor
+Osage,20139,Appalachian State
+Osborne,20141,Baylor
+Ottawa,20143,Baylor
+Pawnee,20145,Baylor
+Phillips,20147,Baylor
+Pottawatomie,20149,Baylor
+Pratt,20151,Oklahoma
+Rawlins,20153,Boise State
+Reno,20155,Baylor
+Republic,20157,Baylor
+Rice,20159,Baylor
+Riley,20161,Baylor
+Rooks,20163,Baylor
+Rush,20165,Baylor
+Russell,20167,Baylor
+Saline,20169,Baylor
+Scott,20171,Boise State
+Sedgwick,20173,Oklahoma
+Seward,20175,Oklahoma
+Shawnee,20177,Appalachian State
+Sheridan,20179,Baylor
+Sherman,20181,Boise State
+Smith,20183,Baylor
+Stafford,20185,Baylor
+Stanton,20187,Boise State
+Stevens,20189,Boise State
+Sumner,20191,Oklahoma
+Thomas,20193,Boise State
+Trego,20195,Baylor
+Wabaunsee,20197,Baylor
+Wallace,20199,Boise State
+Washington,20201,Baylor
+Wichita,20203,Boise State
+Wilson,20205,Washington
+Woodson,20207,Appalachian State
+Wyandotte,20209,Appalachian State
+Adair,21001,Clemson
+Allen,21003,Clemson
+Anderson,21005,LSU
+Ballard,21007,SMU
+Barren,21009,Clemson
+Bath,21011,LSU
+Bell,21013,NC State
+Boone,21015,Ohio State
+Bourbon,21017,LSU
+Boyd,21019,Boise State
+Boyle,21021,LSU
+Bracken,21023,Ohio State
+Breathitt,21025,LSU
+Breckinridge,21027,South Carolina
+Bullitt,21029,South Carolina
+Butler,21031,Clemson
+Caldwell,21033,Clemson
+Calloway,21035,South Carolina
+Campbell,21037,Ohio State
+Carlisle,21039,SMU
+Carroll,21041,Ohio State
+Carter,21043,Boise State
+Casey,21045,LSU
+Christian,21047,Clemson
+Clark,21049,LSU
+Clay,21051,LSU
+Clinton,21053,Clemson
+Crittenden,21055,Clemson
+Cumberland,21057,Clemson
+Daviess,21059,Clemson
+Edmonson,21061,Clemson
+Elliott,21063,Boise State
+Estill,21065,LSU
+Fayette,21067,LSU
+Fleming,21069,LSU
+Floyd,21071,Boise State
+Franklin,21073,LSU
+Fulton,21075,SMU
+Gallatin,21077,Ohio State
+Garrard,21079,LSU
+Grant,21081,Ohio State
+Graves,21083,South Carolina
+Grayson,21085,Clemson
+Green,21087,Clemson
+Greenup,21089,Boise State
+Hancock,21091,Clemson
+Hardin,21093,South Carolina
+Harlan,21095,NC State
+Harrison,21097,LSU
+Hart,21099,Clemson
+Henderson,21101,Clemson
+Henry,21103,South Carolina
+Hickman,21105,SMU
+Hopkins,21107,Clemson
+Jackson,21109,LSU
+Jefferson,21111,South Carolina
+Jessamine,21113,LSU
+Johnson,21115,Boise State
+Kenton,21117,Ohio State
+Knott,21119,Boise State
+Knox,21121,NC State
+Larue,21123,South Carolina
+Laurel,21125,LSU
+Lawrence,21127,Boise State
+Lee,21129,LSU
+Leslie,21131,NC State
+Letcher,21133,Appalachian State
+Lewis,21135,Boise State
+Lincoln,21137,LSU
+Livingston,21139,Clemson
+Logan,21141,Clemson
+Lyon,21143,Clemson
+McCracken,21145,South Carolina
+McCreary,21147,NC State
+McLean,21149,Clemson
+Madison,21151,LSU
+Magoffin,21153,Boise State
+Marion,21155,South Carolina
+Marshall,21157,South Carolina
+Martin,21159,Boise State
+Mason,21161,Ohio State
+Meade,21163,South Carolina
+Menifee,21165,LSU
+Mercer,21167,LSU
+Metcalfe,21169,Clemson
+Monroe,21171,Clemson
+Montgomery,21173,LSU
+Morgan,21175,Boise State
+Muhlenberg,21177,Clemson
+Nelson,21179,South Carolina
+Nicholas,21181,LSU
+Ohio,21183,Clemson
+Oldham,21185,South Carolina
+Owen,21187,LSU
+Owsley,21189,LSU
+Pendleton,21191,Ohio State
+Perry,21193,LSU
+Pike,21195,Boise State
+Powell,21197,LSU
+Pulaski,21199,LSU
+Robertson,21201,LSU
+Rockcastle,21203,LSU
+Rowan,21205,Boise State
+Russell,21207,LSU
+Scott,21209,LSU
+Shelby,21211,South Carolina
+Simpson,21213,Clemson
+Spencer,21215,South Carolina
+Taylor,21217,LSU
+Todd,21219,Clemson
+Trigg,21221,South Carolina
+Trimble,21223,South Carolina
+Union,21225,Clemson
+Warren,21227,Clemson
+Washington,21229,LSU
+Wayne,21231,NC State
+Webster,21233,Clemson
+Whitley,21235,NC State
+Wolfe,21237,LSU
+Woodford,21239,LSU
+Acadia,22001,Baylor
+Allen,22003,Baylor
+Ascension,22005,LSU
+Assumption,22007,LSU
+Avoyelles,22009,Baylor
+Beauregard,22011,Baylor
+Bienville,22013,LSU
+Bossier,22015,LSU
+Caddo,22017,LSU
+Calcasieu,22019,Baylor
+Caldwell,22021,Notre Dame
+Cameron,22023,Baylor
+Catahoula,22025,Notre Dame
+Claiborne,22027,LSU
+Concordia,22029,LSU
+De Soto,22031,LSU
+East Baton Rouge,22033,LSU
+East Carroll,22035,Notre Dame
+East Feliciana,22037,LSU
+Evangeline,22039,Baylor
+Franklin,22041,Notre Dame
+Grant,22043,LSU
+Iberia,22045,Baylor
+Iberville,22047,LSU
+Jackson,22049,LSU
+Jefferson,22051,LSU
+Jefferson Davis,22053,Baylor
+Lafayette,22055,Baylor
+Lafourche,22057,LSU
+La Salle,22059,Notre Dame
+Lincoln,22061,LSU
+Livingston,22063,LSU
+Madison,22065,Notre Dame
+Morehouse,22067,Notre Dame
+Natchitoches,22069,LSU
+Orleans,22071,LSU
+Ouachita,22073,Notre Dame
+Plaquemines,22075,LSU
+Pointe Coupee,22077,LSU
+Rapides,22079,Baylor
+Red River,22081,LSU
+Richland,22083,Notre Dame
+Sabine,22085,LSU
+St. Bernard,22087,LSU
+St. Charles,22089,LSU
+St. Helena,22091,LSU
+St. James,22093,LSU
+St. John the Baptist,22095,LSU
+St. Landry,22097,Baylor
+St. Martin,22099,Baylor
+St. Mary,22101,LSU
+St. Tammany,22103,LSU
+Tangipahoa,22105,LSU
+Tensas,22107,Notre Dame
+Terrebonne,22109,LSU
+Union,22111,LSU
+Vermilion,22113,Baylor
+Vernon,22115,Baylor
+Washington,22117,Baylor
+Webster,22119,LSU
+West Baton Rouge,22121,LSU
+West Carroll,22123,Notre Dame
+West Feliciana,22125,LSU
+Winn,22127,LSU
+Androscoggin,23001,Oklahoma
+Aroostook,23003,Oklahoma
+Cumberland,23005,Oklahoma
+Franklin,23007,Oklahoma
+Hancock,23009,Oklahoma
+Kennebec,23011,Oklahoma
+Knox,23013,Oklahoma
+Lincoln,23015,Oklahoma
+Oxford,23017,Oklahoma
+Penobscot,23019,Oklahoma
+Piscataquis,23021,Oklahoma
+Sagadahoc,23023,Oklahoma
+Somerset,23025,Oklahoma
+Waldo,23027,Oklahoma
+Washington,23029,Oklahoma
+York,23031,Oklahoma
+Allegany,24001,Missouri
+Anne Arundel,24003,Temple
+Baltimore,24005,Temple
+Calvert,24009,Temple
+Caroline,24011,Temple
+Carroll,24013,Western Michigan
+Cecil,24015,Western Michigan
+Charles,24017,Western Michigan
+Dorchester,24019,Temple
+Frederick,24021,Western Michigan
+Garrett,24023,Missouri
+Harford,24025,Temple
+Howard,24027,Western Michigan
+Kent,24029,Temple
+Montgomery,24031,Western Michigan
+Prince George's,24033,Western Michigan
+Queen Anne's,24035,Temple
+St. Mary's,24037,Temple
+Somerset,24039,Temple
+Talbot,24041,Temple
+Washington,24043,Western Michigan
+Wicomico,24045,Temple
+Worcester,24047,Temple
+Baltimore city,24510,Temple
+Barnstable,25001,Oklahoma
+Berkshire,25003,Michigan
+Bristol,25005,Oklahoma
+Dukes,25007,Oklahoma
+Essex,25009,Oklahoma
+Franklin,25011,Michigan
+Hampden,25013,Michigan
+Hampshire,25015,Michigan
+Middlesex,25017,Oklahoma
+Nantucket,25019,Oklahoma
+Norfolk,25021,Oklahoma
+Plymouth,25023,Oklahoma
+Suffolk,25025,Oklahoma
+Worcester,25027,Michigan
+Alcona,26001,Wisconsin
+Alger,26003,Wisconsin
+Allegan,26005,Washington
+Alpena,26007,Wisconsin
+Antrim,26009,Wisconsin
+Arenac,26011,Wisconsin
+Baraga,26013,Wisconsin
+Barry,26015,Washington
+Bay,26017,Wisconsin
+Benzie,26019,Wisconsin
+Berrien,26021,South Carolina
+Branch,26023,Washington
+Calhoun,26025,Washington
+Cass,26027,South Carolina
+Charlevoix,26029,Wisconsin
+Cheboygan,26031,Wisconsin
+Chippewa,26033,Wisconsin
+Clare,26035,Wisconsin
+Clinton,26037,Washington
+Crawford,26039,Wisconsin
+Delta,26041,Wisconsin
+Dickinson,26043,Wisconsin
+Eaton,26045,Washington
+Emmet,26047,Wisconsin
+Genesee,26049,Washington
+Gladwin,26051,Wisconsin
+Gogebic,26053,Minnesota
+Grand Traverse,26055,Wisconsin
+Gratiot,26057,Wisconsin
+Hillsdale,26059,Wisconsin
+Houghton,26061,Minnesota
+Huron,26063,Wisconsin
+Ingham,26065,Washington
+Ionia,26067,Washington
+Iosco,26069,Wisconsin
+Iron,26071,Wisconsin
+Isabella,26073,Wisconsin
+Jackson,26075,Washington
+Kalamazoo,26077,Washington
+Kalkaska,26079,Wisconsin
+Kent,26081,Washington
+Keweenaw,26083,Minnesota
+Lake,26085,Wisconsin
+Lapeer,26087,LSU
+Leelanau,26089,Wisconsin
+Lenawee,26091,LSU
+Livingston,26093,Wisconsin
+Luce,26095,Wisconsin
+Mackinac,26097,Wisconsin
+Macomb,26099,LSU
+Manistee,26101,Wisconsin
+Marquette,26103,Wisconsin
+Mason,26105,Wisconsin
+Mecosta,26107,Wisconsin
+Menominee,26109,Wisconsin
+Midland,26111,Wisconsin
+Missaukee,26113,Wisconsin
+Monroe,26115,LSU
+Montcalm,26117,Wisconsin
+Montmorency,26119,Wisconsin
+Muskegon,26121,Washington
+Newaygo,26123,Wisconsin
+Oakland,26125,LSU
+Oceana,26127,Wisconsin
+Ogemaw,26129,Wisconsin
+Ontonagon,26131,Minnesota
+Osceola,26133,Wisconsin
+Oscoda,26135,Wisconsin
+Otsego,26137,Wisconsin
+Ottawa,26139,Washington
+Presque Isle,26141,Wisconsin
+Roscommon,26143,Wisconsin
+Saginaw,26145,Wisconsin
+St. Clair,26147,LSU
+St. Joseph,26149,Washington
+Sanilac,26151,LSU
+Schoolcraft,26153,Wisconsin
+Shiawassee,26155,Washington
+Tuscola,26157,Wisconsin
+Van Buren,26159,South Carolina
+Washtenaw,26161,Wisconsin
+Wayne,26163,LSU
+Wexford,26165,Wisconsin
+Aitkin,27001,Minnesota
+Anoka,27003,Minnesota
+Becker,27005,Minnesota
+Beltrami,27007,Minnesota
+Benton,27009,Minnesota
+Big Stone,27011,Minnesota
+Blue Earth,27013,Minnesota
+Brown,27015,Minnesota
+Carlton,27017,Minnesota
+Carver,27019,Minnesota
+Cass,27021,Minnesota
+Chippewa,27023,Minnesota
+Chisago,27025,Minnesota
+Clay,27027,Minnesota
+Clearwater,27029,Minnesota
+Cook,27031,Minnesota
+Cottonwood,27033,Minnesota
+Crow Wing,27035,Minnesota
+Dakota,27037,Minnesota
+Dodge,27039,Minnesota
+Douglas,27041,Minnesota
+Faribault,27043,Minnesota
+Fillmore,27045,Minnesota
+Freeborn,27047,Minnesota
+Goodhue,27049,Minnesota
+Grant,27051,Minnesota
+Hennepin,27053,Minnesota
+Houston,27055,Wisconsin
+Hubbard,27057,Minnesota
+Isanti,27059,Minnesota
+Itasca,27061,Minnesota
+Jackson,27063,Minnesota
+Kanabec,27065,Minnesota
+Kandiyohi,27067,Minnesota
+Kittson,27069,Minnesota
+Koochiching,27071,Minnesota
+Lac qui Parle,27073,Minnesota
+Lake,27075,Minnesota
+Lake of the Woods,27077,Minnesota
+Le Sueur,27079,Minnesota
+Lincoln,27081,Minnesota
+Lyon,27083,Minnesota
+McLeod,27085,Minnesota
+Mahnomen,27087,Minnesota
+Marshall,27089,Minnesota
+Martin,27091,Minnesota
+Meeker,27093,Minnesota
+Mille Lacs,27095,Minnesota
+Morrison,27097,Minnesota
+Mower,27099,Minnesota
+Murray,27101,Minnesota
+Nicollet,27103,Minnesota
+Nobles,27105,Minnesota
+Norman,27107,Minnesota
+Olmsted,27109,Minnesota
+Otter Tail,27111,Minnesota
+Pennington,27113,Minnesota
+Pine,27115,Minnesota
+Pipestone,27117,Minnesota
+Polk,27119,Minnesota
+Pope,27121,Minnesota
+Ramsey,27123,Minnesota
+Red Lake,27125,Minnesota
+Redwood,27127,Minnesota
+Renville,27129,Minnesota
+Rice,27131,Minnesota
+Rock,27133,Minnesota
+Roseau,27135,Minnesota
+St. Louis,27137,Minnesota
+Scott,27139,Minnesota
+Sherburne,27141,Minnesota
+Sibley,27143,Minnesota
+Stearns,27145,Minnesota
+Steele,27147,Minnesota
+Stevens,27149,Minnesota
+Swift,27151,Minnesota
+Todd,27153,Minnesota
+Traverse,27155,Minnesota
+Wabasha,27157,Minnesota
+Wadena,27159,Minnesota
+Waseca,27161,Minnesota
+Washington,27163,Minnesota
+Watonwan,27165,Minnesota
+Wilkin,27167,Minnesota
+Winona,27169,Minnesota
+Wright,27171,Minnesota
+Yellow Medicine,27173,Minnesota
+Adams,28001,LSU
+Alcorn,28003,Temple
+Amite,28005,LSU
+Attala,28007,Baylor
+Benton,28009,Temple
+Bolivar,28011,Temple
+Calhoun,28013,Temple
+Carroll,28015,Baylor
+Chickasaw,28017,Baylor
+Choctaw,28019,Baylor
+Claiborne,28021,Notre Dame
+Clarke,28023,Baylor
+Clay,28025,Baylor
+Coahoma,28027,Temple
+Copiah,28029,Baylor
+Covington,28031,Baylor
+De Soto,28033,Temple
+Forrest,28035,Baylor
+Franklin,28037,LSU
+George,28039,Boise State
+Greene,28041,Baylor
+Grenada,28043,Temple
+Hancock,28045,LSU
+Harrison,28047,Baylor
+Hinds,28049,Baylor
+Holmes,28051,Baylor
+Humphreys,28053,Notre Dame
+Issaquena,28055,Notre Dame
+Itawamba,28057,Baylor
+Jackson,28059,Boise State
+Jasper,28061,Baylor
+Jefferson,28063,Notre Dame
+Jefferson Davis,28065,Baylor
+Jones,28067,Baylor
+Kemper,28069,Baylor
+Lafayette,28071,Temple
+Lamar,28073,Baylor
+Lauderdale,28075,Baylor
+Lawrence,28077,Baylor
+Leake,28079,Baylor
+Lee,28081,Temple
+Leflore,28083,Temple
+Lincoln,28085,Baylor
+Lowndes,28087,Baylor
+Madison,28089,Baylor
+Marion,28091,Baylor
+Marshall,28093,Temple
+Monroe,28095,Baylor
+Montgomery,28097,Baylor
+Neshoba,28099,Baylor
+Newton,28101,Baylor
+Noxubee,28103,Baylor
+Oktibbeha,28105,Baylor
+Panola,28107,Temple
+Pearl River,28109,Baylor
+Perry,28111,Baylor
+Pike,28113,Baylor
+Pontotoc,28115,Temple
+Prentiss,28117,Temple
+Quitman,28119,Temple
+Rankin,28121,Baylor
+Scott,28123,Baylor
+Sharkey,28125,Notre Dame
+Simpson,28127,Baylor
+Smith,28129,Baylor
+Stone,28131,Baylor
+Sunflower,28133,Temple
+Tallahatchie,28135,Temple
+Tate,28137,Temple
+Tippah,28139,Temple
+Tishomingo,28141,Temple
+Tunica,28143,Temple
+Union,28145,Temple
+Walthall,28147,Baylor
+Warren,28149,Notre Dame
+Washington,28151,Notre Dame
+Wayne,28153,Baylor
+Webster,28155,Baylor
+Wilkinson,28157,LSU
+Winston,28159,Baylor
+Yalobusha,28161,Temple
+Yazoo,28163,Notre Dame
+Adair,29001,SMU
+Andrew,29003,Appalachian State
+Atchison,29005,Boise State
+Audrain,29007,SMU
+Barry,29009,Arizona State
+Barton,29011,Arizona State
+Bates,29013,Appalachian State
+Benton,29015,SMU
+Bollinger,29017,SMU
+Boone,29019,SMU
+Buchanan,29021,Appalachian State
+Butler,29023,SMU
+Caldwell,29025,Appalachian State
+Callaway,29027,SMU
+Camden,29029,SMU
+Cape Girardeau,29031,SMU
+Carroll,29033,SMU
+Carter,29035,SMU
+Cass,29037,Appalachian State
+Cedar,29039,Appalachian State
+Chariton,29041,SMU
+Christian,29043,Arizona State
+Clark,29045,Michigan
+Clay,29047,Appalachian State
+Clinton,29049,Appalachian State
+Cole,29051,SMU
+Cooper,29053,SMU
+Crawford,29055,SMU
+Dade,29057,Arizona State
+Dallas,29059,SMU
+Daviess,29061,Appalachian State
+DeKalb,29063,Appalachian State
+Dent,29065,SMU
+Douglas,29067,Arizona State
+Dunklin,29069,SMU
+Franklin,29071,SMU
+Gasconade,29073,SMU
+Gentry,29075,Appalachian State
+Greene,29077,Arizona State
+Grundy,29079,SMU
+Harrison,29081,Michigan
+Henry,29083,SMU
+Hickory,29085,SMU
+Holt,29087,Appalachian State
+Howard,29089,SMU
+Howell,29091,SMU
+Iron,29093,SMU
+Jackson,29095,Appalachian State
+Jasper,29097,Arizona State
+Jefferson,29099,SMU
+Johnson,29101,Appalachian State
+Knox,29103,SMU
+Laclede,29105,SMU
+Lafayette,29107,Appalachian State
+Lawrence,29109,Arizona State
+Lewis,29111,SMU
+Lincoln,29113,SMU
+Linn,29115,SMU
+Livingston,29117,SMU
+McDonald,29119,Arizona State
+Macon,29121,SMU
+Madison,29123,SMU
+Maries,29125,SMU
+Marion,29127,SMU
+Mercer,29129,Michigan
+Miller,29131,SMU
+Mississippi,29133,SMU
+Moniteau,29135,SMU
+Monroe,29137,SMU
+Montgomery,29139,SMU
+Morgan,29141,SMU
+New Madrid,29143,SMU
+Newton,29145,Arizona State
+Nodaway,29147,Appalachian State
+Oregon,29149,SMU
+Osage,29151,SMU
+Ozark,29153,Arizona State
+Pemiscot,29155,SMU
+Perry,29157,SMU
+Pettis,29159,SMU
+Phelps,29161,SMU
+Pike,29163,SMU
+Platte,29165,Appalachian State
+Polk,29167,SMU
+Pulaski,29169,SMU
+Putnam,29171,Michigan
+Ralls,29173,SMU
+Randolph,29175,SMU
+Ray,29177,Appalachian State
+Reynolds,29179,SMU
+Ripley,29181,SMU
+St. Charles,29183,SMU
+St. Clair,29185,SMU
+Ste. Genevieve,29186,SMU
+St. Francois,29187,SMU
+St. Louis,29189,SMU
+Saline,29195,SMU
+Schuyler,29197,Michigan
+Scotland,29199,Michigan
+Scott,29201,SMU
+Shannon,29203,SMU
+Shelby,29205,SMU
+Stoddard,29207,SMU
+Stone,29209,Arizona State
+Sullivan,29211,SMU
+Taney,29213,Arizona State
+Texas,29215,SMU
+Vernon,29217,Appalachian State
+Warren,29219,SMU
+Washington,29221,SMU
+Wayne,29223,SMU
+Webster,29225,Arizona State
+Worth,29227,Appalachian State
+Wright,29229,SMU
+St. Louis city,29510,SMU
+Beaverhead,30001,Boise State
+Big Horn,30003,SMU
+Blaine,30005,Washington
+Broadwater,30007,Washington
+Carbon,30009,Louisville
+Carter,30011,SMU
+Cascade,30013,Washington
+Chouteau,30015,Washington
+Custer,30017,SMU
+Daniels,30019,SMU
+Dawson,30021,SMU
+Deer Lodge,30023,Washington
+Fallon,30025,SMU
+Fergus,30027,Washington
+Flathead,30029,Washington
+Gallatin,30031,Louisville
+Garfield,30033,SMU
+Glacier,30035,Washington
+Golden Valley,30037,Louisville
+Granite,30039,Washington
+Hill,30041,Washington
+Jefferson,30043,Washington
+Judith Basin,30045,Washington
+Lake,30047,Washington
+Lewis and Clark,30049,Washington
+Liberty,30051,Washington
+Lincoln,30053,Washington
+McCone,30055,SMU
+Madison,30057,Boise State
+Meagher,30059,Washington
+Mineral,30061,Washington
+Missoula,30063,Washington
+Musselshell,30065,Louisville
+Park,30067,Louisville
+Petroleum,30069,Louisville
+Phillips,30071,Washington
+Pondera,30073,Washington
+Powder River,30075,SMU
+Powell,30077,Washington
+Prairie,30079,SMU
+Ravalli,30081,Washington
+Richland,30083,SMU
+Roosevelt,30085,SMU
+Rosebud,30087,SMU
+Sanders,30089,Washington
+Sheridan,30091,SMU
+Silver Bow,30093,Washington
+Stillwater,30095,Louisville
+Sweet Grass,30097,Louisville
+Teton,30099,Washington
+Toole,30101,Washington
+Treasure,30103,SMU
+Valley,30105,SMU
+Wheatland,30107,Louisville
+Wibaux,30109,SMU
+Yellowstone,30111,Louisville
+Adams,31001,Boise State
+Antelope,31003,Boise State
+Arthur,31005,Boise State
+Banner,31007,SMU
+Blaine,31009,Boise State
+Boone,31011,Boise State
+Box Butte,31013,SMU
+Boyd,31015,Boise State
+Brown,31017,Boise State
+Buffalo,31019,Boise State
+Burt,31021,Boise State
+Butler,31023,Boise State
+Cass,31025,Boise State
+Cedar,31027,Boise State
+Chase,31029,Boise State
+Cherry,31031,SMU
+Cheyenne,31033,Boise State
+Clay,31035,Boise State
+Colfax,31037,Boise State
+Cuming,31039,Boise State
+Custer,31041,Boise State
+Dakota,31043,Boise State
+Dawes,31045,SMU
+Dawson,31047,Boise State
+Deuel,31049,Boise State
+Dixon,31051,Boise State
+Dodge,31053,Boise State
+Douglas,31055,Boise State
+Dundy,31057,Boise State
+Fillmore,31059,Boise State
+Franklin,31061,Boise State
+Frontier,31063,Boise State
+Furnas,31065,Boise State
+Gage,31067,Boise State
+Garden,31069,Boise State
+Garfield,31071,Boise State
+Gosper,31073,Boise State
+Grant,31075,Boise State
+Greeley,31077,Boise State
+Hall,31079,Boise State
+Hamilton,31081,Boise State
+Harlan,31083,Boise State
+Hayes,31085,Boise State
+Hitchcock,31087,Boise State
+Holt,31089,Boise State
+Hooker,31091,Boise State
+Howard,31093,Boise State
+Jefferson,31095,Boise State
+Johnson,31097,Boise State
+Kearney,31099,Boise State
+Keith,31101,Boise State
+Keya Paha,31103,Boise State
+Kimball,31105,Boise State
+Knox,31107,Boise State
+Lancaster,31109,Boise State
+Lincoln,31111,Boise State
+Logan,31113,Boise State
+Loup,31115,Boise State
+McPherson,31117,Boise State
+Madison,31119,Boise State
+Merrick,31121,Boise State
+Morrill,31123,SMU
+Nance,31125,Boise State
+Nemaha,31127,Boise State
+Nuckolls,31129,Boise State
+Otoe,31131,Boise State
+Pawnee,31133,Boise State
+Perkins,31135,Boise State
+Phelps,31137,Boise State
+Pierce,31139,Boise State
+Platte,31141,Boise State
+Polk,31143,Boise State
+Red Willow,31145,Boise State
+Richardson,31147,Boise State
+Rock,31149,Boise State
+Saline,31151,Boise State
+Sarpy,31153,Boise State
+Saunders,31155,Boise State
+Scotts Bluff,31157,SMU
+Seward,31159,Boise State
+Sheridan,31161,SMU
+Sherman,31163,Boise State
+Sioux,31165,SMU
+Stanton,31167,Boise State
+Thayer,31169,Boise State
+Thomas,31171,Boise State
+Thurston,31173,Boise State
+Valley,31175,Boise State
+Washington,31177,Boise State
+Wayne,31179,Boise State
+Webster,31181,Boise State
+Wheeler,31183,Boise State
+York,31185,Boise State
+Churchill,32001,Oregon
+Clark,32003,South Carolina
+Douglas,32005,Oregon
+Elko,32007,Boise State
+Esmeralda,32009,Stanford
+Eureka,32011,Oregon
+Humboldt,32013,Oregon
+Lander,32015,Oregon
+Lincoln,32017,South Carolina
+Lyon,32019,Oregon
+Mineral,32021,Oregon
+Nye,32023,South Carolina
+Pershing,32027,Oregon
+Storey,32029,Oregon
+Washoe,32031,Oregon
+White Pine,32033,Stanford
+Carson City,32510,Oregon
+Belknap,33001,Oklahoma
+Carroll,33003,Oklahoma
+Cheshire,33005,Michigan
+Coos,33007,Oklahoma
+Grafton,33009,Oklahoma
+Hillsborough,33011,Oklahoma
+Merrimack,33013,Oklahoma
+Rockingham,33015,Oklahoma
+Strafford,33017,Oklahoma
+Sullivan,33019,Michigan
+Atlantic,34001,Western Michigan
+Bergen,34003,Wisconsin
+Burlington,34005,Western Michigan
+Camden,34007,Western Michigan
+Cape May,34009,Western Michigan
+Cumberland,34011,Western Michigan
+Essex,34013,Michigan
+Gloucester,34015,Western Michigan
+Hudson,34017,Michigan
+Hunterdon,34019,Michigan
+Mercer,34021,Michigan
+Middlesex,34023,Michigan
+Monmouth,34025,Michigan
+Morris,34027,Michigan
+Ocean,34029,Michigan
+Passaic,34031,Wisconsin
+Salem,34033,Western Michigan
+Somerset,34035,Michigan
+Sussex,34037,Wisconsin
+Union,34039,Michigan
+Warren,34041,Michigan
+Bernalillo,35001,South Carolina
+Catron,35003,South Carolina
+Chaves,35005,Washington
+Cibola,35006,South Carolina
+Colfax,35007,South Carolina
+Curry,35009,Washington
+De Baca,35011,South Carolina
+Doña Ana,35013,Washington
+Eddy,35015,Washington
+Grant,35017,Washington
+Guadalupe,35019,South Carolina
+Harding,35021,South Carolina
+Hidalgo,35023,Washington
+Lea,35025,Washington
+Lincoln,35027,South Carolina
+Los Alamos,35028,South Carolina
+Luna,35029,Washington
+McKinley,35031,South Carolina
+Mora,35033,South Carolina
+Otero,35035,Washington
+Quay,35037,Washington
+Rio Arriba,35039,South Carolina
+Roosevelt,35041,Washington
+Sandoval,35043,South Carolina
+San Juan,35045,South Carolina
+San Miguel,35047,South Carolina
+Santa Fe,35049,South Carolina
+Sierra,35051,Washington
+Socorro,35053,South Carolina
+Taos,35055,South Carolina
+Torrance,35057,South Carolina
+Union,35059,Boise State
+Valencia,35061,South Carolina
+Albany,36001,Michigan
+Allegany,36003,Penn State
+Bronx,36005,Wisconsin
+Broome,36007,Western Michigan
+Cattaraugus,36009,Penn State
+Cayuga,36011,Western Michigan
+Chautauqua,36013,Penn State
+Chemung,36015,Western Michigan
+Chenango,36017,Western Michigan
+Clinton,36019,Western Michigan
+Columbia,36021,Michigan
+Cortland,36023,Western Michigan
+Delaware,36025,Wisconsin
+Dutchess,36027,Wisconsin
+Erie,36029,Penn State
+Essex,36031,Michigan
+Franklin,36033,Western Michigan
+Fulton,36035,Western Michigan
+Genesee,36037,Penn State
+Greene,36039,Wisconsin
+Hamilton,36041,Western Michigan
+Herkimer,36043,Western Michigan
+Jefferson,36045,Western Michigan
+Kings,36047,Michigan
+Lewis,36049,Western Michigan
+Livingston,36051,Penn State
+Madison,36053,Western Michigan
+Monroe,36055,Penn State
+Montgomery,36057,Western Michigan
+Nassau,36059,Wisconsin
+New York,36061,Michigan
+Niagara,36063,Penn State
+Oneida,36065,Western Michigan
+Onondaga,36067,Western Michigan
+Ontario,36069,Western Michigan
+Orange,36071,Wisconsin
+Orleans,36073,Penn State
+Oswego,36075,Western Michigan
+Otsego,36077,Western Michigan
+Putnam,36079,Wisconsin
+Queens,36081,Michigan
+Rensselaer,36083,Michigan
+Richmond,36085,Michigan
+Rockland,36087,Wisconsin
+St. Lawrence,36089,Western Michigan
+Saratoga,36091,Michigan
+Schenectady,36093,Michigan
+Schoharie,36095,Wisconsin
+Schuyler,36097,Western Michigan
+Seneca,36099,Western Michigan
+Steuben,36101,Western Michigan
+Suffolk,36103,Central Michigan
+Sullivan,36105,Wisconsin
+Tioga,36107,Western Michigan
+Tompkins,36109,Western Michigan
+Ulster,36111,Wisconsin
+Warren,36113,Michigan
+Washington,36115,Michigan
+Wayne,36117,Western Michigan
+Westchester,36119,Wisconsin
+Wyoming,36121,Penn State
+Yates,36123,Western Michigan
+Alamance,37001,Louisville
+Alexander,37003,Appalachian State
+Alleghany,37005,Appalachian State
+Anson,37007,Appalachian State
+Ashe,37009,Appalachian State
+Avery,37011,Appalachian State
+Beaufort,37013,Oklahoma
+Bertie,37015,Oklahoma
+Bladen,37017,LSU
+Brunswick,37019,LSU
+Buncombe,37021,Appalachian State
+Burke,37023,Appalachian State
+Cabarrus,37025,Appalachian State
+Caldwell,37027,Appalachian State
+Camden,37029,Pittsburgh
+Carteret,37031,Oklahoma
+Caswell,37033,Alabama
+Catawba,37035,Appalachian State
+Chatham,37037,Louisville
+Cherokee,37039,NC State
+Chowan,37041,Pittsburgh
+Clay,37043,Clemson
+Cleveland,37045,Appalachian State
+Columbus,37047,LSU
+Craven,37049,Oklahoma
+Cumberland,37051,Oklahoma
+Currituck,37053,Pittsburgh
+Dare,37055,Pittsburgh
+Davidson,37057,Louisville
+Davie,37059,Louisville
+Duplin,37061,Oklahoma
+Durham,37063,Alabama
+Edgecombe,37065,Oklahoma
+Forsyth,37067,Louisville
+Franklin,37069,Oklahoma
+Gaston,37071,Appalachian State
+Gates,37073,Pittsburgh
+Graham,37075,NC State
+Granville,37077,Alabama
+Greene,37079,Oklahoma
+Guilford,37081,Louisville
+Halifax,37083,Oklahoma
+Harnett,37085,Oklahoma
+Haywood,37087,Clemson
+Henderson,37089,Clemson
+Hertford,37091,Pittsburgh
+Hoke,37093,Oklahoma
+Hyde,37095,Oklahoma
+Iredell,37097,Appalachian State
+Jackson,37099,Clemson
+Johnston,37101,Oklahoma
+Jones,37103,Oklahoma
+Lee,37105,Louisville
+Lenoir,37107,Oklahoma
+Lincoln,37109,Appalachian State
+McDowell,37111,Appalachian State
+Macon,37113,Clemson
+Madison,37115,Appalachian State
+Martin,37117,Oklahoma
+Mecklenburg,37119,Appalachian State
+Mitchell,37121,Appalachian State
+Montgomery,37123,Appalachian State
+Moore,37125,Louisville
+Nash,37127,Oklahoma
+New Hanover,37129,LSU
+Northampton,37131,Oklahoma
+Onslow,37133,Oklahoma
+Orange,37135,Alabama
+Pamlico,37137,Oklahoma
+Pasquotank,37139,Pittsburgh
+Pender,37141,LSU
+Perquimans,37143,Pittsburgh
+Person,37145,Alabama
+Pitt,37147,Oklahoma
+Polk,37149,Clemson
+Randolph,37151,Louisville
+Richmond,37153,Appalachian State
+Robeson,37155,LSU
+Rockingham,37157,Louisville
+Rowan,37159,Appalachian State
+Rutherford,37161,Appalachian State
+Sampson,37163,Oklahoma
+Scotland,37165,LSU
+Stanly,37167,Appalachian State
+Stokes,37169,Louisville
+Surry,37171,Louisville
+Swain,37173,NC State
+Transylvania,37175,Clemson
+Tyrrell,37177,Oklahoma
+Union,37179,Appalachian State
+Vance,37181,Alabama
+Wake,37183,Oklahoma
+Warren,37185,Oklahoma
+Washington,37187,Oklahoma
+Watauga,37189,Appalachian State
+Wayne,37191,Oklahoma
+Wilkes,37193,Appalachian State
+Wilson,37195,Oklahoma
+Yadkin,37197,Louisville
+Yancey,37199,Appalachian State
+Adams,38001,SMU
+Barnes,38003,Minnesota
+Benson,38005,Minnesota
+Billings,38007,SMU
+Bottineau,38009,Minnesota
+Bowman,38011,SMU
+Burke,38013,Minnesota
+Burleigh,38015,Minnesota
+Cass,38017,Minnesota
+Cavalier,38019,Minnesota
+Dickey,38021,Minnesota
+Divide,38023,SMU
+Dunn,38025,SMU
+Eddy,38027,Minnesota
+Emmons,38029,Minnesota
+Foster,38031,Minnesota
+Golden Valley,38033,SMU
+Grand Forks,38035,Minnesota
+Grant,38037,SMU
+Griggs,38039,Minnesota
+Hettinger,38041,SMU
+Kidder,38043,Minnesota
+LaMoure,38045,Minnesota
+Logan,38047,Minnesota
+McHenry,38049,Minnesota
+McIntosh,38051,Minnesota
+McKenzie,38053,SMU
+McLean,38055,Minnesota
+Mercer,38057,Minnesota
+Morton,38059,Minnesota
+Mountrail,38061,Minnesota
+Nelson,38063,Minnesota
+Oliver,38065,Minnesota
+Pembina,38067,Minnesota
+Pierce,38069,Minnesota
+Ramsey,38071,Minnesota
+Ransom,38073,Minnesota
+Renville,38075,Minnesota
+Richland,38077,Minnesota
+Rolette,38079,Minnesota
+Sargent,38081,Minnesota
+Sheridan,38083,Minnesota
+Sioux,38085,Minnesota
+Slope,38087,SMU
+Stark,38089,SMU
+Steele,38091,Minnesota
+Stutsman,38093,Minnesota
+Towner,38095,Minnesota
+Traill,38097,Minnesota
+Walsh,38099,Minnesota
+Ward,38101,Minnesota
+Wells,38103,Minnesota
+Williams,38105,SMU
+Adams,39001,Ohio State
+Allen,39003,Baylor
+Ashland,39005,Central Michigan
+Ashtabula,39007,Washington
+Athens,39009,Penn State
+Auglaize,39011,Ohio State
+Belmont,39013,Notre Dame
+Brown,39015,Ohio State
+Butler,39017,Michigan
+Carroll,39019,Washington
+Champaign,39021,Ohio State
+Clark,39023,Ohio State
+Clermont,39025,Ohio State
+Clinton,39027,Ohio State
+Columbiana,39029,Washington
+Coshocton,39031,Central Michigan
+Crawford,39033,Baylor
+Cuyahoga,39035,Washington
+Darke,39037,Ohio State
+Defiance,39039,Baylor
+Delaware,39041,Ohio State
+Erie,39043,Baylor
+Fairfield,39045,Ohio State
+Fayette,39047,Ohio State
+Franklin,39049,Ohio State
+Fulton,39051,LSU
+Gallia,39053,Boise State
+Geauga,39055,Washington
+Greene,39057,Michigan
+Guernsey,39059,Penn State
+Hamilton,39061,Ohio State
+Hancock,39063,Baylor
+Hardin,39065,Baylor
+Harrison,39067,Central Michigan
+Henry,39069,Baylor
+Highland,39071,Ohio State
+Hocking,39073,Penn State
+Holmes,39075,Central Michigan
+Huron,39077,Baylor
+Jackson,39079,Penn State
+Jefferson,39081,Notre Dame
+Knox,39083,Ohio State
+Lake,39085,Washington
+Lawrence,39087,Boise State
+Licking,39089,Ohio State
+Logan,39091,Ohio State
+Lorain,39093,Central Michigan
+Lucas,39095,LSU
+Madison,39097,Ohio State
+Mahoning,39099,Washington
+Marion,39101,Ohio State
+Medina,39103,Central Michigan
+Meigs,39105,Penn State
+Mercer,39107,Ohio State
+Miami,39109,Michigan
+Monroe,39111,Missouri
+Montgomery,39113,Michigan
+Morgan,39115,Penn State
+Morrow,39117,Ohio State
+Muskingum,39119,Penn State
+Noble,39121,Penn State
+Ottawa,39123,LSU
+Paulding,39125,Baylor
+Perry,39127,Penn State
+Pickaway,39129,Ohio State
+Pike,39131,Penn State
+Portage,39133,Washington
+Preble,39135,Michigan
+Putnam,39137,Baylor
+Richland,39139,Central Michigan
+Ross,39141,Ohio State
+Sandusky,39143,Baylor
+Scioto,39145,Boise State
+Seneca,39147,Baylor
+Shelby,39149,Michigan
+Stark,39151,Central Michigan
+Summit,39153,Central Michigan
+Trumbull,39155,Washington
+Tuscarawas,39157,Central Michigan
+Union,39159,Ohio State
+Van Wert,39161,Ohio State
+Vinton,39163,Penn State
+Warren,39165,Ohio State
+Washington,39167,Penn State
+Wayne,39169,Central Michigan
+Williams,39171,LSU
+Wood,39173,Baylor
+Wyandot,39175,Baylor
+Adair,40001,Arizona State
+Alfalfa,40003,Oklahoma
+Atoka,40005,Oklahoma
+Beaver,40007,Oklahoma
+Beckham,40009,Oklahoma
+Blaine,40011,Oklahoma
+Bryan,40013,SMU
+Caddo,40015,Oklahoma
+Canadian,40017,Oklahoma
+Carter,40019,Oklahoma
+Cherokee,40021,Arizona State
+Choctaw,40023,SMU
+Cimarron,40025,Boise State
+Cleveland,40027,Oklahoma
+Coal,40029,Oklahoma
+Comanche,40031,Oklahoma
+Cotton,40033,Oklahoma
+Craig,40035,Washington
+Creek,40037,Washington
+Custer,40039,Oklahoma
+Delaware,40041,Arizona State
+Dewey,40043,Oklahoma
+Ellis,40045,Oklahoma
+Garfield,40047,Oklahoma
+Garvin,40049,Oklahoma
+Grady,40051,Oklahoma
+Grant,40053,Oklahoma
+Greer,40055,Oklahoma
+Harmon,40057,Oklahoma
+Harper,40059,Oklahoma
+Haskell,40061,Washington
+Hughes,40063,Oklahoma
+Jackson,40065,Oklahoma
+Jefferson,40067,SMU
+Johnston,40069,Oklahoma
+Kay,40071,Oklahoma
+Kingfisher,40073,Oklahoma
+Kiowa,40075,Oklahoma
+Latimer,40077,Washington
+Le Flore,40079,Arizona State
+Lincoln,40081,Oklahoma
+Logan,40083,Oklahoma
+Love,40085,SMU
+McClain,40087,Oklahoma
+McCurtain,40089,SMU
+McIntosh,40091,Washington
+Major,40093,Oklahoma
+Marshall,40095,SMU
+Mayes,40097,Washington
+Murray,40099,Oklahoma
+Muskogee,40101,Washington
+Noble,40103,Oklahoma
+Nowata,40105,Washington
+Okfuskee,40107,Washington
+Oklahoma,40109,Oklahoma
+Okmulgee,40111,Washington
+Osage,40113,Washington
+Ottawa,40115,Arizona State
+Pawnee,40117,Oklahoma
+Payne,40119,Oklahoma
+Pittsburg,40121,Washington
+Pontotoc,40123,Oklahoma
+Pottawatomie,40125,Oklahoma
+Pushmataha,40127,Washington
+Roger Mills,40129,Oklahoma
+Rogers,40131,Washington
+Seminole,40133,Oklahoma
+Sequoyah,40135,Arizona State
+Stephens,40137,Oklahoma
+Texas,40139,Washington
+Tillman,40141,Oklahoma
+Tulsa,40143,Washington
+Wagoner,40145,Washington
+Washington,40147,Washington
+Washita,40149,Oklahoma
+Woods,40151,Oklahoma
+Woodward,40153,Oklahoma
+Baker,41001,Boise State
+Benton,41003,Oklahoma
+Clackamas,41005,Oklahoma
+Clatsop,41007,Oklahoma
+Columbia,41009,Oklahoma
+Coos,41011,LSU
+Crook,41013,LSU
+Curry,41015,LSU
+Deschutes,41017,LSU
+Douglas,41019,LSU
+Gilliam,41021,Oklahoma
+Grant,41023,Boise State
+Harney,41025,Boise State
+Hood River,41027,Oklahoma
+Jackson,41029,LSU
+Jefferson,41031,LSU
+Josephine,41033,LSU
+Klamath,41035,LSU
+Lake,41037,LSU
+Lane,41039,LSU
+Lincoln,41041,Oklahoma
+Linn,41043,Oklahoma
+Malheur,41045,Boise State
+Marion,41047,Oklahoma
+Morrow,41049,Washington
+Multnomah,41051,Oklahoma
+Polk,41053,Oklahoma
+Sherman,41055,Oklahoma
+Tillamook,41057,Oklahoma
+Umatilla,41059,Washington
+Union,41061,Washington
+Wallowa,41063,Washington
+Wasco,41065,Oklahoma
+Washington,41067,Oklahoma
+Wheeler,41069,LSU
+Yamhill,41071,Oklahoma
+Adams,42001,Western Michigan
+Allegheny,42003,Notre Dame
+Armstrong,42005,Notre Dame
+Beaver,42007,Notre Dame
+Bedford,42009,Penn State
+Berks,42011,Western Michigan
+Blair,42013,Penn State
+Bradford,42015,Western Michigan
+Bucks,42017,Western Michigan
+Butler,42019,Notre Dame
+Cambria,42021,Penn State
+Cameron,42023,Penn State
+Carbon,42025,Michigan
+Centre,42027,Penn State
+Chester,42029,Western Michigan
+Clarion,42031,Notre Dame
+Clearfield,42033,Penn State
+Clinton,42035,Penn State
+Columbia,42037,Penn State
+Crawford,42039,Washington
+Cumberland,42041,Penn State
+Dauphin,42043,Penn State
+Delaware,42045,Western Michigan
+Elk,42047,Penn State
+Erie,42049,Penn State
+Fayette,42051,Missouri
+Forest,42053,Notre Dame
+Franklin,42055,Penn State
+Fulton,42057,Penn State
+Greene,42059,Missouri
+Huntingdon,42061,Penn State
+Indiana,42063,Notre Dame
+Jefferson,42065,Penn State
+Juniata,42067,Penn State
+Lackawanna,42069,Michigan
+Lancaster,42071,Western Michigan
+Lawrence,42073,Notre Dame
+Lebanon,42075,Western Michigan
+Lehigh,42077,Western Michigan
+Luzerne,42079,Michigan
+Lycoming,42081,Penn State
+McKean,42083,Penn State
+Mercer,42085,Washington
+Mifflin,42087,Penn State
+Monroe,42089,Michigan
+Montgomery,42091,Western Michigan
+Montour,42093,Penn State
+Northampton,42095,Michigan
+Northumberland,42097,Penn State
+Perry,42099,Penn State
+Philadelphia,42101,Western Michigan
+Pike,42103,Wisconsin
+Potter,42105,Penn State
+Schuylkill,42107,Western Michigan
+Snyder,42109,Penn State
+Somerset,42111,Missouri
+Sullivan,42113,Penn State
+Susquehanna,42115,Western Michigan
+Tioga,42117,Penn State
+Union,42119,Penn State
+Venango,42121,Notre Dame
+Warren,42123,Penn State
+Washington,42125,Notre Dame
+Wayne,42127,Wisconsin
+Westmoreland,42129,Notre Dame
+Wyoming,42131,Western Michigan
+York,42133,Western Michigan
+Bristol,44001,Oklahoma
+Kent,44003,Oklahoma
+Newport,44005,Oklahoma
+Providence,44007,Oklahoma
+Washington,44009,Central Michigan
+Abbeville,45001,Clemson
+Aiken,45003,Louisville
+Allendale,45005,LSU
+Anderson,45007,Clemson
+Bamberg,45009,Louisville
+Barnwell,45011,Louisville
+Beaufort,45013,LSU
+Berkeley,45015,LSU
+Calhoun,45017,Louisville
+Charleston,45019,LSU
+Cherokee,45021,Appalachian State
+Chester,45023,Appalachian State
+Chesterfield,45025,Appalachian State
+Clarendon,45027,Louisville
+Colleton,45029,LSU
+Darlington,45031,LSU
+Dillon,45033,LSU
+Dorchester,45035,Louisville
+Edgefield,45037,Louisville
+Fairfield,45039,Louisville
+Florence,45041,LSU
+Georgetown,45043,LSU
+Greenville,45045,Clemson
+Greenwood,45047,Clemson
+Hampton,45049,LSU
+Horry,45051,LSU
+Jasper,45053,LSU
+Kershaw,45055,Louisville
+Lancaster,45057,Appalachian State
+Laurens,45059,Clemson
+Lee,45061,Louisville
+Lexington,45063,Louisville
+McCormick,45065,South Carolina
+Marion,45067,LSU
+Marlboro,45069,LSU
+Newberry,45071,Louisville
+Oconee,45073,Clemson
+Orangeburg,45075,Louisville
+Pickens,45077,Clemson
+Richland,45079,Louisville
+Saluda,45081,Louisville
+Spartanburg,45083,Clemson
+Sumter,45085,Louisville
+Union,45087,Louisville
+Williamsburg,45089,LSU
+York,45091,Appalachian State
+Aurora,46003,Boise State
+Beadle,46005,Minnesota
+Bennett,46007,SMU
+Bon Homme,46009,Boise State
+Brookings,46011,Minnesota
+Brown,46013,Minnesota
+Brule,46015,Boise State
+Buffalo,46017,Boise State
+Butte,46019,SMU
+Campbell,46021,Minnesota
+Charles Mix,46023,Boise State
+Clark,46025,Minnesota
+Clay,46027,Boise State
+Codington,46029,Minnesota
+Corson,46031,SMU
+Custer,46033,SMU
+Davison,46035,Boise State
+Day,46037,Minnesota
+Deuel,46039,Minnesota
+Dewey,46041,SMU
+Douglas,46043,Boise State
+Edmunds,46045,Minnesota
+Fall River,46047,SMU
+Faulk,46049,Minnesota
+Grant,46051,Minnesota
+Gregory,46053,Boise State
+Haakon,46055,SMU
+Hamlin,46057,Minnesota
+Hand,46059,Boise State
+Hanson,46061,Boise State
+Harding,46063,SMU
+Hughes,46065,Boise State
+Hutchinson,46067,Boise State
+Hyde,46069,Boise State
+Jackson,46071,SMU
+Jerauld,46073,Boise State
+Jones,46075,Boise State
+Kingsbury,46077,Minnesota
+Lake,46079,Minnesota
+Lawrence,46081,SMU
+Lincoln,46083,Boise State
+Lyman,46085,Boise State
+McCook,46087,Boise State
+McPherson,46089,Minnesota
+Marshall,46091,Minnesota
+Meade,46093,SMU
+Mellette,46095,Boise State
+Miner,46097,Boise State
+Minnehaha,46099,Boise State
+Moody,46101,Minnesota
+Oglala Lakota,46102,SMU
+Pennington,46103,SMU
+Perkins,46105,SMU
+Potter,46107,Minnesota
+Roberts,46109,Minnesota
+Sanborn,46111,Boise State
+Spink,46115,Minnesota
+Stanley,46117,SMU
+Sully,46119,Boise State
+Todd,46121,Boise State
+Tripp,46123,Boise State
+Turner,46125,Boise State
+Union,46127,Boise State
+Walworth,46129,Minnesota
+Yankton,46135,Boise State
+Ziebach,46137,SMU
+Anderson,47001,NC State
+Bedford,47003,Wisconsin
+Benton,47005,South Carolina
+Bledsoe,47007,Wisconsin
+Blount,47009,NC State
+Bradley,47011,NC State
+Campbell,47013,NC State
+Cannon,47015,Wisconsin
+Carroll,47017,South Carolina
+Carter,47019,Appalachian State
+Cheatham,47021,South Carolina
+Chester,47023,Temple
+Claiborne,47025,NC State
+Clay,47027,Clemson
+Cocke,47029,NC State
+Coffee,47031,Wisconsin
+Crockett,47033,Temple
+Cumberland,47035,NC State
+Davidson,47037,South Carolina
+Decatur,47039,South Carolina
+De Kalb,47041,Wisconsin
+Dickson,47043,South Carolina
+Dyer,47045,SMU
+Fayette,47047,Temple
+Fentress,47049,NC State
+Franklin,47051,Wisconsin
+Gibson,47053,Temple
+Giles,47055,Wisconsin
+Grainger,47057,NC State
+Greene,47059,NC State
+Grundy,47061,Wisconsin
+Hamblen,47063,NC State
+Hamilton,47065,Wisconsin
+Hancock,47067,NC State
+Hardeman,47069,Temple
+Hardin,47071,Temple
+Hawkins,47073,NC State
+Haywood,47075,Temple
+Henderson,47077,Temple
+Henry,47079,South Carolina
+Hickman,47081,South Carolina
+Houston,47083,South Carolina
+Humphreys,47085,South Carolina
+Jackson,47087,Wisconsin
+Jefferson,47089,NC State
+Johnson,47091,Appalachian State
+Knox,47093,NC State
+Lake,47095,SMU
+Lauderdale,47097,Temple
+Lawrence,47099,South Carolina
+Lewis,47101,South Carolina
+Lincoln,47103,Wisconsin
+Loudon,47105,NC State
+McMinn,47107,NC State
+McNairy,47109,Temple
+Macon,47111,Clemson
+Madison,47113,Temple
+Marion,47115,Wisconsin
+Marshall,47117,Wisconsin
+Maury,47119,South Carolina
+Meigs,47121,NC State
+Monroe,47123,NC State
+Montgomery,47125,South Carolina
+Moore,47127,Wisconsin
+Morgan,47129,NC State
+Obion,47131,SMU
+Overton,47133,Wisconsin
+Perry,47135,South Carolina
+Pickett,47137,NC State
+Polk,47139,NC State
+Putnam,47141,Wisconsin
+Rhea,47143,NC State
+Roane,47145,NC State
+Robertson,47147,South Carolina
+Rutherford,47149,Wisconsin
+Scott,47151,NC State
+Sequatchie,47153,Wisconsin
+Sevier,47155,NC State
+Shelby,47157,Temple
+Smith,47159,Wisconsin
+Stewart,47161,South Carolina
+Sullivan,47163,Appalachian State
+Sumner,47165,South Carolina
+Tipton,47167,Temple
+Trousdale,47169,Wisconsin
+Unicoi,47171,Appalachian State
+Union,47173,NC State
+Van Buren,47175,Wisconsin
+Warren,47177,Wisconsin
+Washington,47179,Appalachian State
+Wayne,47181,South Carolina
+Weakley,47183,Temple
+White,47185,Wisconsin
+Williamson,47187,South Carolina
+Wilson,47189,Wisconsin
+Anderson,48001,Baylor
+Andrews,48003,Washington
+Angelina,48005,Clemson
+Aransas,48007,Baylor
+Archer,48009,SMU
+Armstrong,48011,Washington
+Atascosa,48013,Baylor
+Austin,48015,Clemson
+Bailey,48017,Washington
+Bandera,48019,Baylor
+Bastrop,48021,LSU
+Baylor,48023,SMU
+Bee,48025,Baylor
+Bell,48027,Baylor
+Bexar,48029,Baylor
+Blanco,48031,Clemson
+Borden,48033,Washington
+Bosque,48035,Baylor
+Bowie,48037,LSU
+Brazoria,48039,Wisconsin
+Brazos,48041,Clemson
+Brewster,48043,Washington
+Briscoe,48045,Washington
+Brooks,48047,Baylor
+Brown,48049,Baylor
+Burleson,48051,Clemson
+Burnet,48053,LSU
+Caldwell,48055,Clemson
+Calhoun,48057,Wisconsin
+Callahan,48059,SMU
+Cameron,48061,Baylor
+Camp,48063,SMU
+Carson,48065,Washington
+Cass,48067,LSU
+Castro,48069,Washington
+Chambers,48071,Oklahoma
+Cherokee,48073,Clemson
+Childress,48075,Washington
+Clay,48077,SMU
+Cochran,48079,Washington
+Coke,48081,Washington
+Coleman,48083,Baylor
+Collin,48085,SMU
+Collingsworth,48087,Washington
+Colorado,48089,Wisconsin
+Comal,48091,Clemson
+Comanche,48093,SMU
+Concho,48095,LSU
+Cooke,48097,SMU
+Coryell,48099,Baylor
+Cottle,48101,Washington
+Crane,48103,Washington
+Crockett,48105,Baylor
+Crosby,48107,Washington
+Culberson,48109,Washington
+Dallam,48111,Washington
+Dallas,48113,SMU
+Dawson,48115,Washington
+Deaf Smith,48117,Washington
+Delta,48119,SMU
+Denton,48121,SMU
+De Witt,48123,Clemson
+Dickens,48125,Washington
+Dimmit,48127,Baylor
+Donley,48129,Washington
+Duval,48131,Baylor
+Eastland,48133,SMU
+Ector,48135,Washington
+Edwards,48137,Baylor
+Ellis,48139,SMU
+El Paso,48141,Washington
+Erath,48143,SMU
+Falls,48145,Baylor
+Fannin,48147,SMU
+Fayette,48149,LSU
+Fisher,48151,Washington
+Floyd,48153,Washington
+Foard,48155,Washington
+Fort Bend,48157,Wisconsin
+Franklin,48159,SMU
+Freestone,48161,Baylor
+Frio,48163,Baylor
+Gaines,48165,Washington
+Galveston,48167,Oklahoma
+Garza,48169,Washington
+Gillespie,48171,Clemson
+Glasscock,48173,Washington
+Goliad,48175,Baylor
+Gonzales,48177,Clemson
+Gray,48179,Washington
+Grayson,48181,SMU
+Gregg,48183,SMU
+Grimes,48185,Clemson
+Guadalupe,48187,Clemson
+Hale,48189,Washington
+Hall,48191,Washington
+Hamilton,48193,Baylor
+Hansford,48195,Washington
+Hardeman,48197,Washington
+Hardin,48199,Oklahoma
+Harris,48201,Oklahoma
+Harrison,48203,LSU
+Hartley,48205,Washington
+Haskell,48207,Washington
+Hays,48209,Clemson
+Hemphill,48211,Oklahoma
+Henderson,48213,SMU
+Hidalgo,48215,Baylor
+Hill,48217,Baylor
+Hockley,48219,Washington
+Hood,48221,SMU
+Hopkins,48223,SMU
+Houston,48225,Clemson
+Howard,48227,Washington
+Hudspeth,48229,Washington
+Hunt,48231,SMU
+Hutchinson,48233,Washington
+Irion,48235,Washington
+Jack,48237,SMU
+Jackson,48239,Wisconsin
+Jasper,48241,Oklahoma
+Jeff Davis,48243,Washington
+Jefferson,48245,Oklahoma
+Jim Hogg,48247,Baylor
+Jim Wells,48249,Baylor
+Johnson,48251,SMU
+Jones,48253,Washington
+Karnes,48255,Baylor
+Kaufman,48257,SMU
+Kendall,48259,Baylor
+Kenedy,48261,Baylor
+Kent,48263,Washington
+Kerr,48265,Baylor
+Kimble,48267,Baylor
+King,48269,Washington
+Kinney,48271,Baylor
+Kleberg,48273,Baylor
+Knox,48275,Washington
+Lamar,48277,SMU
+Lamb,48279,Washington
+Lampasas,48281,Baylor
+La Salle,48283,Baylor
+Lavaca,48285,Clemson
+Lee,48287,Clemson
+Leon,48289,Clemson
+Liberty,48291,Oklahoma
+Limestone,48293,Baylor
+Lipscomb,48295,Oklahoma
+Live Oak,48297,Baylor
+Llano,48299,LSU
+Loving,48301,Washington
+Lubbock,48303,Washington
+Lynn,48305,Washington
+McCulloch,48307,LSU
+McLennan,48309,Baylor
+McMullen,48311,Baylor
+Madison,48313,Clemson
+Marion,48315,LSU
+Martin,48317,Washington
+Mason,48319,LSU
+Matagorda,48321,Wisconsin
+Maverick,48323,Baylor
+Medina,48325,Baylor
+Menard,48327,Baylor
+Midland,48329,Washington
+Milam,48331,Clemson
+Mills,48333,Baylor
+Mitchell,48335,Washington
+Montague,48337,SMU
+Montgomery,48339,Wisconsin
+Moore,48341,Washington
+Morris,48343,SMU
+Motley,48345,Washington
+Nacogdoches,48347,Clemson
+Navarro,48349,Baylor
+Newton,48351,Baylor
+Nolan,48353,Washington
+Nueces,48355,Baylor
+Ochiltree,48357,Washington
+Oldham,48359,Washington
+Orange,48361,Oklahoma
+Palo Pinto,48363,SMU
+Panola,48365,LSU
+Parker,48367,SMU
+Parmer,48369,Washington
+Pecos,48371,Washington
+Polk,48373,Oklahoma
+Potter,48375,Washington
+Presidio,48377,Washington
+Rains,48379,SMU
+Randall,48381,Washington
+Reagan,48383,Washington
+Real,48385,Baylor
+Red River,48387,SMU
+Reeves,48389,Washington
+Refugio,48391,Baylor
+Roberts,48393,Washington
+Robertson,48395,Clemson
+Rockwall,48397,SMU
+Runnels,48399,Washington
+Rusk,48401,SMU
+Sabine,48403,LSU
+San Augustine,48405,LSU
+San Jacinto,48407,Oklahoma
+San Patricio,48409,Baylor
+San Saba,48411,LSU
+Schleicher,48413,Baylor
+Scurry,48415,Washington
+Shackelford,48417,SMU
+Shelby,48419,LSU
+Sherman,48421,Washington
+Smith,48423,SMU
+Somervell,48425,SMU
+Starr,48427,Baylor
+Stephens,48429,SMU
+Sterling,48431,Washington
+Stonewall,48433,Washington
+Sutton,48435,Baylor
+Swisher,48437,Washington
+Tarrant,48439,SMU
+Taylor,48441,Washington
+Terrell,48443,Baylor
+Terry,48445,Washington
+Throckmorton,48447,SMU
+Titus,48449,SMU
+Tom Green,48451,Washington
+Travis,48453,LSU
+Trinity,48455,Clemson
+Tyler,48457,Oklahoma
+Upshur,48459,SMU
+Upton,48461,Washington
+Uvalde,48463,Baylor
+Val Verde,48465,Baylor
+Van Zandt,48467,SMU
+Victoria,48469,Clemson
+Walker,48471,Clemson
+Waller,48473,Wisconsin
+Ward,48475,Washington
+Washington,48477,Clemson
+Webb,48479,Baylor
+Wharton,48481,Wisconsin
+Wheeler,48483,Washington
+Wichita,48485,SMU
+Wilbarger,48487,Oklahoma
+Willacy,48489,Baylor
+Williamson,48491,LSU
+Wilson,48493,Baylor
+Winkler,48495,Washington
+Wise,48497,SMU
+Wood,48499,SMU
+Yoakum,48501,Washington
+Young,48503,SMU
+Zapata,48505,Baylor
+Zavala,48507,Baylor
+Beaver,49001,Stanford
+Box Elder,49003,Louisville
+Cache,49005,Louisville
+Carbon,49007,Stanford
+Daggett,49009,Stanford
+Davis,49011,Stanford
+Duchesne,49013,Stanford
+Emery,49015,Stanford
+Garfield,49017,Stanford
+Grand,49019,Stanford
+Iron,49021,South Carolina
+Juab,49023,Stanford
+Kane,49025,South Carolina
+Millard,49027,Stanford
+Morgan,49029,Stanford
+Piute,49031,Stanford
+Rich,49033,Louisville
+Salt Lake,49035,Stanford
+San Juan,49037,Stanford
+Sanpete,49039,Stanford
+Sevier,49041,Stanford
+Summit,49043,Stanford
+Tooele,49045,Stanford
+Uintah,49047,Stanford
+Utah,49049,Stanford
+Wasatch,49051,Stanford
+Washington,49053,South Carolina
+Wayne,49055,Stanford
+Weber,49057,Stanford
+Addison,50001,Michigan
+Bennington,50003,Michigan
+Caledonia,50005,Michigan
+Chittenden,50007,Michigan
+Essex,50009,Michigan
+Franklin,50011,Michigan
+Grand Isle,50013,Michigan
+Lamoille,50015,Michigan
+Orange,50017,Michigan
+Orleans,50019,Michigan
+Rutland,50021,Michigan
+Washington,50023,Michigan
+Windham,50025,Michigan
+Windsor,50027,Michigan
+Accomack,51001,Pittsburgh
+Albemarle,51003,Notre Dame
+Alleghany,51005,Oklahoma
+Amelia,51007,Notre Dame
+Amherst,51009,Western Michigan
+Appomattox,51011,Western Michigan
+Arlington,51013,Western Michigan
+Augusta,51015,Notre Dame
+Bath,51017,Western Michigan
+Bedford,51019,Western Michigan
+Bland,51021,Oklahoma
+Botetourt,51023,Western Michigan
+Brunswick,51025,Alabama
+Buchanan,51027,Appalachian State
+Buckingham,51029,Notre Dame
+Campbell,51031,Western Michigan
+Caroline,51033,Notre Dame
+Carroll,51035,Oklahoma
+Charles City,51036,Pittsburgh
+Charlotte,51037,Western Michigan
+Chesterfield,51041,Notre Dame
+Clarke,51043,Western Michigan
+Craig,51045,Oklahoma
+Culpeper,51047,Notre Dame
+Cumberland,51049,Notre Dame
+Dickenson,51051,Appalachian State
+Dinwiddie,51053,Pittsburgh
+Essex,51057,Western Michigan
+Fairfax,51059,Western Michigan
+Fauquier,51061,Western Michigan
+Floyd,51063,Oklahoma
+Fluvanna,51065,Notre Dame
+Franklin,51067,Oklahoma
+Frederick,51069,Western Michigan
+Giles,51071,Oklahoma
+Gloucester,51073,Pittsburgh
+Goochland,51075,Notre Dame
+Grayson,51077,Appalachian State
+Greene,51079,Notre Dame
+Greensville,51081,Pittsburgh
+Halifax,51083,Western Michigan
+Hanover,51085,Notre Dame
+Henrico,51087,Pittsburgh
+Henry,51089,Louisville
+Highland,51091,Notre Dame
+Isle of Wight,51093,Pittsburgh
+James City,51095,Pittsburgh
+King and Queen,51097,Pittsburgh
+King George,51099,Western Michigan
+King William,51101,Pittsburgh
+Lancaster,51103,Pittsburgh
+Lee,51105,NC State
+Loudoun,51107,Western Michigan
+Louisa,51109,Notre Dame
+Lunenburg,51111,Western Michigan
+Madison,51113,Notre Dame
+Mathews,51115,Pittsburgh
+Mecklenburg,51117,Alabama
+Middlesex,51119,Pittsburgh
+Montgomery,51121,Oklahoma
+Nelson,51125,Notre Dame
+New Kent,51127,Pittsburgh
+Northampton,51131,Pittsburgh
+Northumberland,51133,Pittsburgh
+Nottoway,51135,Western Michigan
+Orange,51137,Notre Dame
+Page,51139,Notre Dame
+Patrick,51141,Oklahoma
+Pittsylvania,51143,Western Michigan
+Powhatan,51145,Notre Dame
+Prince Edward,51147,Western Michigan
+Prince George,51149,Pittsburgh
+Prince William,51153,Western Michigan
+Pulaski,51155,Oklahoma
+Rappahannock,51157,Notre Dame
+Richmond,51159,Temple
+Roanoke,51161,Oklahoma
+Rockbridge,51163,Western Michigan
+Rockingham,51165,Notre Dame
+Russell,51167,Appalachian State
+Scott,51169,Appalachian State
+Shenandoah,51171,Notre Dame
+Smyth,51173,Appalachian State
+Southampton,51175,Pittsburgh
+Spotsylvania,51177,Notre Dame
+Stafford,51179,Western Michigan
+Surry,51181,Pittsburgh
+Sussex,51183,Pittsburgh
+Tazewell,51185,Appalachian State
+Warren,51187,Notre Dame
+Washington,51191,Appalachian State
+Westmoreland,51193,Temple
+Wise,51195,Appalachian State
+Wythe,51197,Oklahoma
+York,51199,Pittsburgh
+Alexandria (City),51510,Western Michigan
+Bristol (City),51520,Appalachian State
+Buena Vista (City),51530,Western Michigan
+Charlottesville (City),51540,Notre Dame
+Chesapeake (City),51550,Pittsburgh
+Colonial Heights (City),51570,Pittsburgh
+Covington (City),51580,Oklahoma
+Danville (City),51590,Alabama
+Emporia (City),51595,Pittsburgh
+Fairfax (City),51600,Western Michigan
+Falls Church (City),51610,Western Michigan
+Franklin (City),51620,Pittsburgh
+Fredericksburg (City),51630,Western Michigan
+Galax (City),51640,Oklahoma
+Hampton (City),51650,Pittsburgh
+Harrisonburg (City),51660,Notre Dame
+Hopewell (City),51670,Pittsburgh
+Lexington (City),51678,Western Michigan
+Lynchburg (City),51680,Western Michigan
+Manassas (City),51683,Western Michigan
+Manassas Park (City),51685,Western Michigan
+Martinsville (City),51690,Louisville
+Newport News (City),51700,Pittsburgh
+Norfolk (City),51710,Pittsburgh
+Norton (City),51720,Appalachian State
+Petersburg (City),51730,Pittsburgh
+Poquoson (City),51735,Pittsburgh
+Portsmouth (City),51740,Pittsburgh
+Radford (City),51750,Oklahoma
+Richmond (City),51760,Notre Dame
+Roanoke (City),51770,Oklahoma
+Salem (City),51775,Oklahoma
+Staunton (City),51790,Notre Dame
+Suffolk (City),51800,Pittsburgh
+Virginia Beach (City),51810,Pittsburgh
+Waynesboro (City),51820,Notre Dame
+Williamsburg (City),51830,Pittsburgh
+Winchester (City),51840,Western Michigan
+Adams,53001,Washington
+Asotin,53003,Washington
+Benton,53005,Washington
+Chelan,53007,Arizona State
+Clallam,53009,Arizona State
+Clark,53011,Oklahoma
+Columbia,53013,Washington
+Cowlitz,53015,Arizona State
+Douglas,53017,Arizona State
+Ferry,53019,Washington
+Franklin,53021,Washington
+Garfield,53023,Washington
+Grant,53025,Washington
+Grays Harbor,53027,Arizona State
+Island,53029,Arizona State
+Jefferson,53031,Arizona State
+King,53033,Arizona State
+Kitsap,53035,Arizona State
+Kittitas,53037,Arizona State
+Klickitat,53039,Arizona State
+Lewis,53041,Arizona State
+Lincoln,53043,Washington
+Mason,53045,Arizona State
+Okanogan,53047,Arizona State
+Pacific,53049,Arizona State
+Pend Oreille,53051,Washington
+Pierce,53053,Arizona State
+San Juan,53055,Arizona State
+Skagit,53057,Arizona State
+Skamania,53059,Arizona State
+Snohomish,53061,Arizona State
+Spokane,53063,Washington
+Stevens,53065,Washington
+Thurston,53067,Arizona State
+Wahkiakum,53069,Arizona State
+Walla Walla,53071,Washington
+Whatcom,53073,Arizona State
+Whitman,53075,Washington
+Yakima,53077,Arizona State
+Barbour,54001,Missouri
+Berkeley,54003,Western Michigan
+Boone,54005,Boise State
+Braxton,54007,Missouri
+Brooke,54009,Notre Dame
+Cabell,54011,Boise State
+Calhoun,54013,Penn State
+Clay,54015,Boise State
+Doddridge,54017,Missouri
+Fayette,54019,Oklahoma
+Gilmer,54021,Missouri
+Grant,54023,Missouri
+Greenbrier,54025,Oklahoma
+Hampshire,54027,Missouri
+Hancock,54029,Notre Dame
+Hardy,54031,Notre Dame
+Harrison,54033,Missouri
+Jackson,54035,Penn State
+Jefferson,54037,Western Michigan
+Kanawha,54039,Boise State
+Lewis,54041,Missouri
+Lincoln,54043,Boise State
+Logan,54045,Boise State
+McDowell,54047,Oklahoma
+Marion,54049,Missouri
+Marshall,54051,Missouri
+Mason,54053,Boise State
+Mercer,54055,Oklahoma
+Mineral,54057,Missouri
+Mingo,54059,Boise State
+Monongalia,54061,Missouri
+Monroe,54063,Oklahoma
+Morgan,54065,Western Michigan
+Nicholas,54067,Oklahoma
+Ohio,54069,Notre Dame
+Pendleton,54071,Notre Dame
+Pleasants,54073,Penn State
+Pocahontas,54075,Notre Dame
+Preston,54077,Missouri
+Putnam,54079,Boise State
+Raleigh,54081,Oklahoma
+Randolph,54083,Missouri
+Ritchie,54085,Penn State
+Roane,54087,Penn State
+Summers,54089,Oklahoma
+Taylor,54091,Missouri
+Tucker,54093,Missouri
+Tyler,54095,Missouri
+Upshur,54097,Missouri
+Wayne,54099,Boise State
+Webster,54101,Missouri
+Wetzel,54103,Missouri
+Wirt,54105,Penn State
+Wood,54107,Penn State
+Wyoming,54109,Oklahoma
+Adams,55001,Wisconsin
+Ashland,55003,Minnesota
+Barron,55005,Minnesota
+Bayfield,55007,Minnesota
+Brown,55009,Wisconsin
+Buffalo,55011,Minnesota
+Burnett,55013,Minnesota
+Calumet,55015,Wisconsin
+Chippewa,55017,Minnesota
+Clark,55019,Minnesota
+Columbia,55021,Wisconsin
+Crawford,55023,Wisconsin
+Dane,55025,Wisconsin
+Dodge,55027,Wisconsin
+Door,55029,Wisconsin
+Douglas,55031,Minnesota
+Dunn,55033,Minnesota
+Eau Claire,55035,Minnesota
+Florence,55037,Wisconsin
+Fond du Lac,55039,Wisconsin
+Forest,55041,Wisconsin
+Grant,55043,Wisconsin
+Green,55045,Wisconsin
+Green Lake,55047,Wisconsin
+Iowa,55049,Wisconsin
+Iron,55051,Minnesota
+Jackson,55053,Wisconsin
+Jefferson,55055,Wisconsin
+Juneau,55057,Wisconsin
+Kenosha,55059,Stanford
+Kewaunee,55061,Wisconsin
+La Crosse,55063,Wisconsin
+Lafayette,55065,Wisconsin
+Langlade,55067,Wisconsin
+Lincoln,55069,Wisconsin
+Manitowoc,55071,Wisconsin
+Marathon,55073,Wisconsin
+Marinette,55075,Wisconsin
+Marquette,55077,Wisconsin
+Menominee,55078,Wisconsin
+Milwaukee,55079,Stanford
+Monroe,55081,Wisconsin
+Oconto,55083,Wisconsin
+Oneida,55085,Wisconsin
+Outagamie,55087,Wisconsin
+Ozaukee,55089,Stanford
+Pepin,55091,Minnesota
+Pierce,55093,Minnesota
+Polk,55095,Minnesota
+Portage,55097,Wisconsin
+Price,55099,Minnesota
+Racine,55101,Stanford
+Richland,55103,Wisconsin
+Rock,55105,Wisconsin
+Rusk,55107,Minnesota
+St. Croix,55109,Minnesota
+Sauk,55111,Wisconsin
+Sawyer,55113,Minnesota
+Shawano,55115,Wisconsin
+Sheboygan,55117,Wisconsin
+Taylor,55119,Minnesota
+Trempealeau,55121,Minnesota
+Vernon,55123,Wisconsin
+Vilas,55125,Minnesota
+Walworth,55127,Stanford
+Washburn,55129,Minnesota
+Washington,55131,Wisconsin
+Waukesha,55133,Wisconsin
+Waupaca,55135,Wisconsin
+Waushara,55137,Wisconsin
+Winnebago,55139,Wisconsin
+Wood,55141,Wisconsin
+Albany,56001,SMU
+Big Horn,56003,SMU
+Campbell,56005,SMU
+Carbon,56007,SMU
+Converse,56009,SMU
+Crook,56011,SMU
+Fremont,56013,Louisville
+Goshen,56015,SMU
+Hot Springs,56017,Louisville
+Johnson,56019,SMU
+Laramie,56021,SMU
+Lincoln,56023,Louisville
+Natrona,56025,SMU
+Niobrara,56027,SMU
+Park,56029,Louisville
+Platte,56031,SMU
+Sheridan,56033,SMU
+Sublette,56035,Louisville
+Sweetwater,56037,Louisville
+Teton,56039,Louisville
+Uinta,56041,Louisville
+Washakie,56043,SMU
+Weston,56045,SMU
+,72000,LSU
