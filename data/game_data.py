@@ -1,13 +1,6 @@
-!pip install requests
+# %%
 import requests
 import json
-
-x= len(responses)
-i = 0
-team1_score = []
-team2_score = []
-team1_name = []
-team2_name = []
 
 URL= 'https://api.collegefootballdata.com/'
  
@@ -29,7 +22,12 @@ param13 = {"year":"2018" , "week":"14"}
 
 responses = requests.get(URL+'games', param).json()
 
-
+x= len(responses)
+i = 0
+team1_score = []
+team2_score = []
+team1_name = []
+team2_name = []
 
 def get_values():
   for i in range(x):
@@ -48,3 +46,6 @@ print(team1_score)
 print(team2_score)
 print(team1_name)
 print(team2_name)
+
+
+# %%

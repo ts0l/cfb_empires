@@ -88,12 +88,20 @@ teams_venues = pd.concat([teams_venues.drop(columns=['location']), teams_venues[
 teams_venues = teams_venues.rename(columns={'x': 'Latitude', 'y': 'Longitude'})
 teams_venues.to_csv('data/teams_venues.csv')
 
+
 # %%
+from geopy.distance import distance
+
 counties = pd.read_csv('data/county_loc.csv', dtype=object)
+counties['FIPS'] = counties['State Code'] + counties['County Code']
+counties = counties.drop(columns=['State Code', 'County Code'])
 
-# %%
-counties
+for _, row in teams_venues.iterrows():
+    dist = lambda county: distance((county['Latitude'], county['Longitude']), (row['Latitude'], row['Longitude'])).km
+    counties[row['school']] = counties[['Latitude', 'Longitude']].apply(dist, axis=1)
 
-# %%
+counties['Owner'] = counties[counties.columns.difference(['Name', 'Latitude', 'Longitude', 'FIPS'])].idxmin(axis=1)
+counties = counties[['Name', 'FIPS', 'Owner']]
+counties.to_csv('data/starting_counties.csv')
 
 # %%
